@@ -1,0 +1,1278 @@
+﻿pair_id,hgnc_symbol,candidate_name_1369,source_database,pmid,pubmed_url
+CASR|PFNFFQXMRSDOHW-UHFFFAOYSA-N,CASR,Spermine,GtoPdb,9357776,https://pubmed.ncbi.nlm.nih.gov/9357776/
+CASR|QIVBCDIJIAJPQS-VIFPVBQESA-N,CASR,L-Tryptophan,GtoPdb,10781086,https://pubmed.ncbi.nlm.nih.gov/10781086/
+CASR|QIVBCDIJIAJPQS-VIFPVBQESA-N,CASR,L-Tryptophan,GtoPdb,15234970,https://pubmed.ncbi.nlm.nih.gov/15234970/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,GtoPdb,23798605,https://pubmed.ncbi.nlm.nih.gov/23798605/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,GtoPdb,9224827,https://pubmed.ncbi.nlm.nih.gov/9224827/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,ChEMBL,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,ChEMBL,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,ChEMBL,25478907,https://pubmed.ncbi.nlm.nih.gov/25478907/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,ChEMBL,25765911,https://pubmed.ncbi.nlm.nih.gov/25765911/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,ChEMBL,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,ChEMBL,29094937,https://pubmed.ncbi.nlm.nih.gov/29094937/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,ChEMBL,30827105,https://pubmed.ncbi.nlm.nih.gov/30827105/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,ChEMBL,37042802,https://pubmed.ncbi.nlm.nih.gov/37042802/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,11741475,https://pubmed.ncbi.nlm.nih.gov/11741475/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,1704434,https://pubmed.ncbi.nlm.nih.gov/1704434/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,20716489,https://pubmed.ncbi.nlm.nih.gov/20716489/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,22677319,https://pubmed.ncbi.nlm.nih.gov/22677319/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,25478907,https://pubmed.ncbi.nlm.nih.gov/25478907/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,25765911,https://pubmed.ncbi.nlm.nih.gov/25765911/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,29094937,https://pubmed.ncbi.nlm.nih.gov/29094937/
+CHRM1|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM1,GtoPdb_294_acetylcholine,BindingDB,30827105,https://pubmed.ncbi.nlm.nih.gov/30827105/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,GtoPdb,12235229,https://pubmed.ncbi.nlm.nih.gov/12235229/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,GtoPdb,23798605,https://pubmed.ncbi.nlm.nih.gov/23798605/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,GtoPdb,9224827,https://pubmed.ncbi.nlm.nih.gov/9224827/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,ChEMBL,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,ChEMBL,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,ChEMBL,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,ChEMBL,29094937,https://pubmed.ncbi.nlm.nih.gov/29094937/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,ChEMBL,37042802,https://pubmed.ncbi.nlm.nih.gov/37042802/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,BindingDB,12235229,https://pubmed.ncbi.nlm.nih.gov/12235229/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,BindingDB,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,BindingDB,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,BindingDB,22677319,https://pubmed.ncbi.nlm.nih.gov/22677319/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,BindingDB,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,BindingDB,29094937,https://pubmed.ncbi.nlm.nih.gov/29094937/
+CHRM2|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM2,GtoPdb_294_acetylcholine,BindingDB,9454790,https://pubmed.ncbi.nlm.nih.gov/9454790/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,GtoPdb,12235229,https://pubmed.ncbi.nlm.nih.gov/12235229/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,GtoPdb,23798605,https://pubmed.ncbi.nlm.nih.gov/23798605/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,GtoPdb,9224827,https://pubmed.ncbi.nlm.nih.gov/9224827/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,ChEMBL,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,ChEMBL,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,ChEMBL,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,ChEMBL,29094937,https://pubmed.ncbi.nlm.nih.gov/29094937/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,ChEMBL,37042802,https://pubmed.ncbi.nlm.nih.gov/37042802/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,BindingDB,12235229,https://pubmed.ncbi.nlm.nih.gov/12235229/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,BindingDB,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,BindingDB,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,BindingDB,20716489,https://pubmed.ncbi.nlm.nih.gov/20716489/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,BindingDB,22677319,https://pubmed.ncbi.nlm.nih.gov/22677319/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,BindingDB,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CHRM3|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM3,GtoPdb_294_acetylcholine,BindingDB,29094937,https://pubmed.ncbi.nlm.nih.gov/29094937/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,GtoPdb,23798605,https://pubmed.ncbi.nlm.nih.gov/23798605/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,GtoPdb,9224827,https://pubmed.ncbi.nlm.nih.gov/9224827/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,ChEMBL,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,ChEMBL,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,ChEMBL,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,ChEMBL,31223452,https://pubmed.ncbi.nlm.nih.gov/31223452/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,ChEMBL,37042802,https://pubmed.ncbi.nlm.nih.gov/37042802/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,BindingDB,12235229,https://pubmed.ncbi.nlm.nih.gov/12235229/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,BindingDB,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,BindingDB,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,BindingDB,22677319,https://pubmed.ncbi.nlm.nih.gov/22677319/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,BindingDB,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CHRM4|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM4,GtoPdb_294_acetylcholine,BindingDB,31223452,https://pubmed.ncbi.nlm.nih.gov/31223452/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,GtoPdb,12235229,https://pubmed.ncbi.nlm.nih.gov/12235229/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,ChEMBL,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,ChEMBL,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,ChEMBL,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,ChEMBL,37042802,https://pubmed.ncbi.nlm.nih.gov/37042802/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,BindingDB,11741475,https://pubmed.ncbi.nlm.nih.gov/11741475/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,BindingDB,12235229,https://pubmed.ncbi.nlm.nih.gov/12235229/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,BindingDB,18077164,https://pubmed.ncbi.nlm.nih.gov/18077164/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,BindingDB,20684563,https://pubmed.ncbi.nlm.nih.gov/20684563/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,BindingDB,20716489,https://pubmed.ncbi.nlm.nih.gov/20716489/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,BindingDB,22677319,https://pubmed.ncbi.nlm.nih.gov/22677319/
+CHRM5|OIPILFWXSMYKGL-UHFFFAOYSA-N,CHRM5,GtoPdb_294_acetylcholine,BindingDB,26299349,https://pubmed.ncbi.nlm.nih.gov/26299349/
+CMKLR1|AOPOCGPBAIARAV-OTBJXLELSA-N,CMKLR1,GtoPdb_3333_resolvin E1,GtoPdb,15753205,https://pubmed.ncbi.nlm.nih.gov/15753205/
+CMKLR1|AOPOCGPBAIARAV-OTBJXLELSA-N,CMKLR1,GtoPdb_3333_resolvin E1,GtoPdb,17339491,https://pubmed.ncbi.nlm.nih.gov/17339491/
+CMKLR1|AOPOCGPBAIARAV-OTBJXLELSA-N,CMKLR1,GtoPdb_3333_resolvin E1,GtoPdb,20887750,https://pubmed.ncbi.nlm.nih.gov/20887750/
+CMKLR1|AOPOCGPBAIARAV-OTBJXLELSA-N,CMKLR1,GtoPdb_3333_resolvin E1,ChEMBL,37883692,https://pubmed.ncbi.nlm.nih.gov/37883692/
+CMKLR1|AOPOCGPBAIARAV-OTBJXLELSA-N,CMKLR1,GtoPdb_3333_resolvin E1,BindingDB,37883692,https://pubmed.ncbi.nlm.nih.gov/37883692/
+CNR1|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR1,GtoPdb_2364_anandamide,GtoPdb,7565624,https://pubmed.ncbi.nlm.nih.gov/7565624/
+CNR1|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR1,GtoPdb_2364_anandamide,GtoPdb,8819477,https://pubmed.ncbi.nlm.nih.gov/8819477/
+CNR1|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR1,GtoPdb_2364_anandamide,ChEMBL,16078824,https://pubmed.ncbi.nlm.nih.gov/16078824/
+CNR1|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR1,GtoPdb_2364_anandamide,ChEMBL,16279794,https://pubmed.ncbi.nlm.nih.gov/16279794/
+CNR1|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR1,GtoPdb_2364_anandamide,ChEMBL,19361197,https://pubmed.ncbi.nlm.nih.gov/19361197/
+CNR1|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR1,GtoPdb_2364_anandamide,ChEMBL,23865723,https://pubmed.ncbi.nlm.nih.gov/23865723/
+CNR1|RCRCTBLIHCHWDZ-DOFZRALJSA-N,CNR1,GtoPdb_729_2-arachidonoylglycerol,ChEMBL,17110113,https://pubmed.ncbi.nlm.nih.gov/17110113/
+CNR1|RCRCTBLIHCHWDZ-DOFZRALJSA-N,CNR1,GtoPdb_729_2-arachidonoylglycerol,ChEMBL,21675776,https://pubmed.ncbi.nlm.nih.gov/21675776/
+CNR2|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR2,GtoPdb_2364_anandamide,GtoPdb,7565624,https://pubmed.ncbi.nlm.nih.gov/7565624/
+CNR2|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR2,GtoPdb_2364_anandamide,GtoPdb,7605349,https://pubmed.ncbi.nlm.nih.gov/7605349/
+CNR2|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR2,GtoPdb_2364_anandamide,GtoPdb,8819477,https://pubmed.ncbi.nlm.nih.gov/8819477/
+CNR2|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR2,GtoPdb_2364_anandamide,ChEMBL,16213718,https://pubmed.ncbi.nlm.nih.gov/16213718/
+CNR2|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR2,GtoPdb_2364_anandamide,ChEMBL,19361197,https://pubmed.ncbi.nlm.nih.gov/19361197/
+CNR2|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR2,GtoPdb_2364_anandamide,ChEMBL,23865723,https://pubmed.ncbi.nlm.nih.gov/23865723/
+CNR2|LGEQQWMQCRIYKG-DOFZRALJSA-N,CNR2,GtoPdb_2364_anandamide,ChEMBL,30196704,https://pubmed.ncbi.nlm.nih.gov/30196704/
+CNR2|RCRCTBLIHCHWDZ-DOFZRALJSA-N,CNR2,GtoPdb_729_2-arachidonoylglycerol,GtoPdb,7605349,https://pubmed.ncbi.nlm.nih.gov/7605349/
+CNR2|RCRCTBLIHCHWDZ-DOFZRALJSA-N,CNR2,GtoPdb_729_2-arachidonoylglycerol,GtoPdb,9721036,https://pubmed.ncbi.nlm.nih.gov/9721036/
+CNR2|RCRCTBLIHCHWDZ-DOFZRALJSA-N,CNR2,GtoPdb_729_2-arachidonoylglycerol,ChEMBL,17110113,https://pubmed.ncbi.nlm.nih.gov/17110113/
+CNR2|RCRCTBLIHCHWDZ-DOFZRALJSA-N,CNR2,GtoPdb_729_2-arachidonoylglycerol,ChEMBL,21675776,https://pubmed.ncbi.nlm.nih.gov/21675776/
+CNR2|RCRCTBLIHCHWDZ-DOFZRALJSA-N,CNR2,GtoPdb_729_2-arachidonoylglycerol,ChEMBL,22044209,https://pubmed.ncbi.nlm.nih.gov/22044209/
+CYSLTR1|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR1,GtoPdb_3354_LTC4,GtoPdb,10391245,https://pubmed.ncbi.nlm.nih.gov/10391245/
+CYSLTR1|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR1,GtoPdb_3354_LTC4,GtoPdb,10462554,https://pubmed.ncbi.nlm.nih.gov/10462554/
+CYSLTR1|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR1,GtoPdb_3354_LTC4,GtoPdb,10913337,https://pubmed.ncbi.nlm.nih.gov/10913337/
+CYSLTR1|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR1,GtoPdb_3354_LTC4,GtoPdb,11093801,https://pubmed.ncbi.nlm.nih.gov/11093801/
+CYSLTR1|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR1,GtoPdb_3354_LTC4,GtoPdb,9547367,https://pubmed.ncbi.nlm.nih.gov/9547367/
+CYSLTR1|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR1,GtoPdb_3354_LTC4,ChEMBL,34767347,https://pubmed.ncbi.nlm.nih.gov/34767347/
+CYSLTR1|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR1,GtoPdb_3354_LTC4,BindingDB,34767347,https://pubmed.ncbi.nlm.nih.gov/34767347/
+CYSLTR1|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR1,GtoPdb_3352_LTE4,GtoPdb,10391245,https://pubmed.ncbi.nlm.nih.gov/10391245/
+CYSLTR1|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR1,GtoPdb_3352_LTE4,GtoPdb,10462554,https://pubmed.ncbi.nlm.nih.gov/10462554/
+CYSLTR1|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR1,GtoPdb_3352_LTE4,GtoPdb,10913337,https://pubmed.ncbi.nlm.nih.gov/10913337/
+CYSLTR1|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR1,GtoPdb_3352_LTE4,GtoPdb,11093801,https://pubmed.ncbi.nlm.nih.gov/11093801/
+CYSLTR1|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR1,GtoPdb_3352_LTE4,GtoPdb,21078884,https://pubmed.ncbi.nlm.nih.gov/21078884/
+CYSLTR1|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR1,GtoPdb_3352_LTE4,GtoPdb,9547367,https://pubmed.ncbi.nlm.nih.gov/9547367/
+CYSLTR1|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR1,GtoPdb_3352_LTE4,ChEMBL,34767347,https://pubmed.ncbi.nlm.nih.gov/34767347/
+CYSLTR1|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR1,GtoPdb_3353_LTD4,GtoPdb,10391245,https://pubmed.ncbi.nlm.nih.gov/10391245/
+CYSLTR1|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR1,GtoPdb_3353_LTD4,GtoPdb,10462554,https://pubmed.ncbi.nlm.nih.gov/10462554/
+CYSLTR1|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR1,GtoPdb_3353_LTD4,GtoPdb,10913337,https://pubmed.ncbi.nlm.nih.gov/10913337/
+CYSLTR1|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR1,GtoPdb_3353_LTD4,GtoPdb,11093801,https://pubmed.ncbi.nlm.nih.gov/11093801/
+CYSLTR1|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR1,GtoPdb_3353_LTD4,GtoPdb,14518564,https://pubmed.ncbi.nlm.nih.gov/14518564/
+CYSLTR1|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR1,GtoPdb_3353_LTD4,GtoPdb,17558309,https://pubmed.ncbi.nlm.nih.gov/17558309/
+CYSLTR1|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR1,GtoPdb_3353_LTD4,GtoPdb,21753081,https://pubmed.ncbi.nlm.nih.gov/21753081/
+CYSLTR2|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR2,GtoPdb_3354_LTC4,GtoPdb,10851239,https://pubmed.ncbi.nlm.nih.gov/10851239/
+CYSLTR2|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR2,GtoPdb_3354_LTC4,GtoPdb,10913337,https://pubmed.ncbi.nlm.nih.gov/10913337/
+CYSLTR2|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR2,GtoPdb_3354_LTC4,GtoPdb,11093801,https://pubmed.ncbi.nlm.nih.gov/11093801/
+CYSLTR2|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR2,GtoPdb_3354_LTC4,GtoPdb,21078884,https://pubmed.ncbi.nlm.nih.gov/21078884/
+CYSLTR2|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR2,GtoPdb_3354_LTC4,GtoPdb,21753081,https://pubmed.ncbi.nlm.nih.gov/21753081/
+CYSLTR2|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR2,GtoPdb_3354_LTC4,ChEMBL,34767347,https://pubmed.ncbi.nlm.nih.gov/34767347/
+CYSLTR2|GWNVDXQDILPJIG-NXOLIXFESA-N,CYSLTR2,GtoPdb_3354_LTC4,BindingDB,34767347,https://pubmed.ncbi.nlm.nih.gov/34767347/
+CYSLTR2|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR2,GtoPdb_3352_LTE4,GtoPdb,10851239,https://pubmed.ncbi.nlm.nih.gov/10851239/
+CYSLTR2|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR2,GtoPdb_3352_LTE4,GtoPdb,10913337,https://pubmed.ncbi.nlm.nih.gov/10913337/
+CYSLTR2|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR2,GtoPdb_3352_LTE4,GtoPdb,11093801,https://pubmed.ncbi.nlm.nih.gov/11093801/
+CYSLTR2|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR2,GtoPdb_3352_LTE4,GtoPdb,21078884,https://pubmed.ncbi.nlm.nih.gov/21078884/
+CYSLTR2|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR2,GtoPdb_3352_LTE4,GtoPdb,9547367,https://pubmed.ncbi.nlm.nih.gov/9547367/
+CYSLTR2|OTZRAYGBFWZKMX-FRFVZSDQSA-N,CYSLTR2,GtoPdb_3352_LTE4,ChEMBL,34767347,https://pubmed.ncbi.nlm.nih.gov/34767347/
+CYSLTR2|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR2,GtoPdb_3353_LTD4,GtoPdb,10851239,https://pubmed.ncbi.nlm.nih.gov/10851239/
+CYSLTR2|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR2,GtoPdb_3353_LTD4,GtoPdb,10913337,https://pubmed.ncbi.nlm.nih.gov/10913337/
+CYSLTR2|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR2,GtoPdb_3353_LTD4,GtoPdb,11093801,https://pubmed.ncbi.nlm.nih.gov/11093801/
+CYSLTR2|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR2,GtoPdb_3353_LTD4,GtoPdb,21078884,https://pubmed.ncbi.nlm.nih.gov/21078884/
+CYSLTR2|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR2,GtoPdb_3353_LTD4,GtoPdb,21753081,https://pubmed.ncbi.nlm.nih.gov/21753081/
+CYSLTR2|YEESKJGWJFYOOK-LDDGIIIKSA-N,CYSLTR2,GtoPdb_3353_LTD4,GtoPdb,9547367,https://pubmed.ncbi.nlm.nih.gov/9547367/
+DRD1|QZAYGJVTTNCVMB-UHFFFAOYSA-N,DRD1,5-Hydroxytryptamine,GtoPdb,1826762,https://pubmed.ncbi.nlm.nih.gov/1826762/
+DRD1|QZAYGJVTTNCVMB-UHFFFAOYSA-N,DRD1,5-Hydroxytryptamine,ChEMBL,8632409,https://pubmed.ncbi.nlm.nih.gov/8632409/
+DRD1|QZAYGJVTTNCVMB-UHFFFAOYSA-N,DRD1,5-Hydroxytryptamine,BindingDB,8632409,https://pubmed.ncbi.nlm.nih.gov/8632409/
+DRD1|SFLSHLFXELFNJZ-UHFFFAOYSA-N,DRD1,GtoPdb_484_noradrenaline,GtoPdb,1826762,https://pubmed.ncbi.nlm.nih.gov/1826762/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,GtoPdb,1826762,https://pubmed.ncbi.nlm.nih.gov/1826762/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,GtoPdb,7525564,https://pubmed.ncbi.nlm.nih.gov/7525564/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,17154515,https://pubmed.ncbi.nlm.nih.gov/17154515/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,18313303,https://pubmed.ncbi.nlm.nih.gov/18313303/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,20709559,https://pubmed.ncbi.nlm.nih.gov/20709559/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,22846798,https://pubmed.ncbi.nlm.nih.gov/22846798/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,23134120,https://pubmed.ncbi.nlm.nih.gov/23134120/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,24296012,https://pubmed.ncbi.nlm.nih.gov/24296012/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,30431269,https://pubmed.ncbi.nlm.nih.gov/30431269/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,31098001,https://pubmed.ncbi.nlm.nih.gov/31098001/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,37421373,https://pubmed.ncbi.nlm.nih.gov/37421373/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,ChEMBL,8632409,https://pubmed.ncbi.nlm.nih.gov/8632409/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,17154515,https://pubmed.ncbi.nlm.nih.gov/17154515/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,1826762,https://pubmed.ncbi.nlm.nih.gov/1826762/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,18313303,https://pubmed.ncbi.nlm.nih.gov/18313303/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,19454369,https://pubmed.ncbi.nlm.nih.gov/19454369/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,1973733,https://pubmed.ncbi.nlm.nih.gov/1973733/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,20709559,https://pubmed.ncbi.nlm.nih.gov/20709559/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,21862338,https://pubmed.ncbi.nlm.nih.gov/21862338/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,22846798,https://pubmed.ncbi.nlm.nih.gov/22846798/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,23134120,https://pubmed.ncbi.nlm.nih.gov/23134120/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,30431269,https://pubmed.ncbi.nlm.nih.gov/30431269/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,31098001,https://pubmed.ncbi.nlm.nih.gov/31098001/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,37421373,https://pubmed.ncbi.nlm.nih.gov/37421373/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,7658429,https://pubmed.ncbi.nlm.nih.gov/7658429/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,8632409,https://pubmed.ncbi.nlm.nih.gov/8632409/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,9686407,https://pubmed.ncbi.nlm.nih.gov/9686407/
+DRD1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD1,GtoPdb_940_dopamine,BindingDB,9784114,https://pubmed.ncbi.nlm.nih.gov/9784114/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,GtoPdb,7576010,https://pubmed.ncbi.nlm.nih.gov/7576010/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,GtoPdb,7756621,https://pubmed.ncbi.nlm.nih.gov/7756621/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,GtoPdb,8301582,https://pubmed.ncbi.nlm.nih.gov/8301582/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,10465538,https://pubmed.ncbi.nlm.nih.gov/10465538/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,10691700,https://pubmed.ncbi.nlm.nih.gov/10691700/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,18072730,https://pubmed.ncbi.nlm.nih.gov/18072730/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,18313303,https://pubmed.ncbi.nlm.nih.gov/18313303/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,18834111,https://pubmed.ncbi.nlm.nih.gov/18834111/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,20155917,https://pubmed.ncbi.nlm.nih.gov/20155917/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,22642365,https://pubmed.ncbi.nlm.nih.gov/22642365/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,23134120,https://pubmed.ncbi.nlm.nih.gov/23134120/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,23275802,https://pubmed.ncbi.nlm.nih.gov/23275802/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,23428965,https://pubmed.ncbi.nlm.nih.gov/23428965/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,24296012,https://pubmed.ncbi.nlm.nih.gov/24296012/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,24831693,https://pubmed.ncbi.nlm.nih.gov/24831693/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,26555041,https://pubmed.ncbi.nlm.nih.gov/26555041/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,27035329,https://pubmed.ncbi.nlm.nih.gov/27035329/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,27132867,https://pubmed.ncbi.nlm.nih.gov/27132867/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,27591013,https://pubmed.ncbi.nlm.nih.gov/27591013/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,28300398,https://pubmed.ncbi.nlm.nih.gov/28300398/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,28489379,https://pubmed.ncbi.nlm.nih.gov/28489379/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,29051383,https://pubmed.ncbi.nlm.nih.gov/29051383/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,31357129,https://pubmed.ncbi.nlm.nih.gov/31357129/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,37646374,https://pubmed.ncbi.nlm.nih.gov/37646374/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,ChEMBL,8893836,https://pubmed.ncbi.nlm.nih.gov/8893836/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,10465538,https://pubmed.ncbi.nlm.nih.gov/10465538/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,10691700,https://pubmed.ncbi.nlm.nih.gov/10691700/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,12023553,https://pubmed.ncbi.nlm.nih.gov/12023553/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,15239663,https://pubmed.ncbi.nlm.nih.gov/15239663/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,1586393,https://pubmed.ncbi.nlm.nih.gov/1586393/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,17149874,https://pubmed.ncbi.nlm.nih.gov/17149874/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,18072730,https://pubmed.ncbi.nlm.nih.gov/18072730/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,18313303,https://pubmed.ncbi.nlm.nih.gov/18313303/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,18410082,https://pubmed.ncbi.nlm.nih.gov/18410082/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,18834111,https://pubmed.ncbi.nlm.nih.gov/18834111/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,19427222,https://pubmed.ncbi.nlm.nih.gov/19427222/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,20038106,https://pubmed.ncbi.nlm.nih.gov/20038106/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,20146482,https://pubmed.ncbi.nlm.nih.gov/20146482/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,20155917,https://pubmed.ncbi.nlm.nih.gov/20155917/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,20605099,https://pubmed.ncbi.nlm.nih.gov/20605099/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,22642365,https://pubmed.ncbi.nlm.nih.gov/22642365/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,22846798,https://pubmed.ncbi.nlm.nih.gov/22846798/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,23134120,https://pubmed.ncbi.nlm.nih.gov/23134120/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,23275802,https://pubmed.ncbi.nlm.nih.gov/23275802/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,23428965,https://pubmed.ncbi.nlm.nih.gov/23428965/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,23623679,https://pubmed.ncbi.nlm.nih.gov/23623679/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,23727194,https://pubmed.ncbi.nlm.nih.gov/23727194/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,24296012,https://pubmed.ncbi.nlm.nih.gov/24296012/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,24325578,https://pubmed.ncbi.nlm.nih.gov/24325578/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,24471976,https://pubmed.ncbi.nlm.nih.gov/24471976/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,24831693,https://pubmed.ncbi.nlm.nih.gov/24831693/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,26555041,https://pubmed.ncbi.nlm.nih.gov/26555041/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,27035329,https://pubmed.ncbi.nlm.nih.gov/27035329/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,27132867,https://pubmed.ncbi.nlm.nih.gov/27132867/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,27591013,https://pubmed.ncbi.nlm.nih.gov/27591013/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,28300398,https://pubmed.ncbi.nlm.nih.gov/28300398/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,28489379,https://pubmed.ncbi.nlm.nih.gov/28489379/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,29051383,https://pubmed.ncbi.nlm.nih.gov/29051383/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,31357129,https://pubmed.ncbi.nlm.nih.gov/31357129/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,32342685,https://pubmed.ncbi.nlm.nih.gov/32342685/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,32877805,https://pubmed.ncbi.nlm.nih.gov/32877805/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,36571976,https://pubmed.ncbi.nlm.nih.gov/36571976/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,37646374,https://pubmed.ncbi.nlm.nih.gov/37646374/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,7658429,https://pubmed.ncbi.nlm.nih.gov/7658429/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,8301582,https://pubmed.ncbi.nlm.nih.gov/8301582/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,8893836,https://pubmed.ncbi.nlm.nih.gov/8893836/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,9021894,https://pubmed.ncbi.nlm.nih.gov/9021894/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,9686407,https://pubmed.ncbi.nlm.nih.gov/9686407/
+DRD2|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD2,GtoPdb_940_dopamine,BindingDB,9784114,https://pubmed.ncbi.nlm.nih.gov/9784114/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,GtoPdb,1975644,https://pubmed.ncbi.nlm.nih.gov/1975644/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,GtoPdb,7576010,https://pubmed.ncbi.nlm.nih.gov/7576010/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,GtoPdb,7756621,https://pubmed.ncbi.nlm.nih.gov/7756621/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,GtoPdb,8301582,https://pubmed.ncbi.nlm.nih.gov/8301582/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,10691700,https://pubmed.ncbi.nlm.nih.gov/10691700/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,18072730,https://pubmed.ncbi.nlm.nih.gov/18072730/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,18834111,https://pubmed.ncbi.nlm.nih.gov/18834111/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,20605099,https://pubmed.ncbi.nlm.nih.gov/20605099/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,22846798,https://pubmed.ncbi.nlm.nih.gov/22846798/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,23134120,https://pubmed.ncbi.nlm.nih.gov/23134120/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,23275802,https://pubmed.ncbi.nlm.nih.gov/23275802/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,23428965,https://pubmed.ncbi.nlm.nih.gov/23428965/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,23623679,https://pubmed.ncbi.nlm.nih.gov/23623679/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,24471976,https://pubmed.ncbi.nlm.nih.gov/24471976/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,24831693,https://pubmed.ncbi.nlm.nih.gov/24831693/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,26555041,https://pubmed.ncbi.nlm.nih.gov/26555041/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,27035329,https://pubmed.ncbi.nlm.nih.gov/27035329/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,27591013,https://pubmed.ncbi.nlm.nih.gov/27591013/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,28300398,https://pubmed.ncbi.nlm.nih.gov/28300398/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,32282200,https://pubmed.ncbi.nlm.nih.gov/32282200/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,32342685,https://pubmed.ncbi.nlm.nih.gov/32342685/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,34011153,https://pubmed.ncbi.nlm.nih.gov/34011153/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,37421373,https://pubmed.ncbi.nlm.nih.gov/37421373/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,37467430,https://pubmed.ncbi.nlm.nih.gov/37467430/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,37646374,https://pubmed.ncbi.nlm.nih.gov/37646374/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,ChEMBL,8893836,https://pubmed.ncbi.nlm.nih.gov/8893836/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,10691700,https://pubmed.ncbi.nlm.nih.gov/10691700/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,10832613,https://pubmed.ncbi.nlm.nih.gov/10832613/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,1586393,https://pubmed.ncbi.nlm.nih.gov/1586393/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,18072730,https://pubmed.ncbi.nlm.nih.gov/18072730/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,18410082,https://pubmed.ncbi.nlm.nih.gov/18410082/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,18834111,https://pubmed.ncbi.nlm.nih.gov/18834111/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,19427222,https://pubmed.ncbi.nlm.nih.gov/19427222/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,20038106,https://pubmed.ncbi.nlm.nih.gov/20038106/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,20146482,https://pubmed.ncbi.nlm.nih.gov/20146482/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,20605099,https://pubmed.ncbi.nlm.nih.gov/20605099/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,22642365,https://pubmed.ncbi.nlm.nih.gov/22642365/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,22846798,https://pubmed.ncbi.nlm.nih.gov/22846798/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,23134120,https://pubmed.ncbi.nlm.nih.gov/23134120/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,23275802,https://pubmed.ncbi.nlm.nih.gov/23275802/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,23428965,https://pubmed.ncbi.nlm.nih.gov/23428965/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,24831693,https://pubmed.ncbi.nlm.nih.gov/24831693/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,26555041,https://pubmed.ncbi.nlm.nih.gov/26555041/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,27035329,https://pubmed.ncbi.nlm.nih.gov/27035329/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,27591013,https://pubmed.ncbi.nlm.nih.gov/27591013/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,28300398,https://pubmed.ncbi.nlm.nih.gov/28300398/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,32282200,https://pubmed.ncbi.nlm.nih.gov/32282200/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,32342685,https://pubmed.ncbi.nlm.nih.gov/32342685/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,34011153,https://pubmed.ncbi.nlm.nih.gov/34011153/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,36571976,https://pubmed.ncbi.nlm.nih.gov/36571976/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,37421373,https://pubmed.ncbi.nlm.nih.gov/37421373/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,37646374,https://pubmed.ncbi.nlm.nih.gov/37646374/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,8301582,https://pubmed.ncbi.nlm.nih.gov/8301582/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,8893836,https://pubmed.ncbi.nlm.nih.gov/8893836/
+DRD3|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD3,GtoPdb_940_dopamine,BindingDB,9686407,https://pubmed.ncbi.nlm.nih.gov/9686407/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,GtoPdb,1840645,https://pubmed.ncbi.nlm.nih.gov/1840645/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,ChEMBL,10691700,https://pubmed.ncbi.nlm.nih.gov/10691700/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,ChEMBL,17154515,https://pubmed.ncbi.nlm.nih.gov/17154515/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,ChEMBL,18834111,https://pubmed.ncbi.nlm.nih.gov/18834111/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,ChEMBL,23428965,https://pubmed.ncbi.nlm.nih.gov/23428965/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,ChEMBL,29051383,https://pubmed.ncbi.nlm.nih.gov/29051383/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,ChEMBL,29589445,https://pubmed.ncbi.nlm.nih.gov/29589445/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,ChEMBL,37646374,https://pubmed.ncbi.nlm.nih.gov/37646374/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,10691700,https://pubmed.ncbi.nlm.nih.gov/10691700/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,15239663,https://pubmed.ncbi.nlm.nih.gov/15239663/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,17149874,https://pubmed.ncbi.nlm.nih.gov/17149874/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,17154515,https://pubmed.ncbi.nlm.nih.gov/17154515/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,18834111,https://pubmed.ncbi.nlm.nih.gov/18834111/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,29051383,https://pubmed.ncbi.nlm.nih.gov/29051383/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,29589445,https://pubmed.ncbi.nlm.nih.gov/29589445/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,37646374,https://pubmed.ncbi.nlm.nih.gov/37646374/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,9223553,https://pubmed.ncbi.nlm.nih.gov/9223553/
+DRD4|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD4,GtoPdb_940_dopamine,BindingDB,9262370,https://pubmed.ncbi.nlm.nih.gov/9262370/
+DRD5|QZAYGJVTTNCVMB-UHFFFAOYSA-N,DRD5,5-Hydroxytryptamine,GtoPdb,1826762,https://pubmed.ncbi.nlm.nih.gov/1826762/
+DRD5|QZAYGJVTTNCVMB-UHFFFAOYSA-N,DRD5,5-Hydroxytryptamine,BindingDB,1826762,https://pubmed.ncbi.nlm.nih.gov/1826762/
+DRD5|SFLSHLFXELFNJZ-UHFFFAOYSA-N,DRD5,GtoPdb_484_noradrenaline,GtoPdb,1826762,https://pubmed.ncbi.nlm.nih.gov/1826762/
+DRD5|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD5,GtoPdb_940_dopamine,GtoPdb,1826762,https://pubmed.ncbi.nlm.nih.gov/1826762/
+DRD5|VYFYYTLLBUKUHU-UHFFFAOYSA-N,DRD5,GtoPdb_940_dopamine,BindingDB,1826762,https://pubmed.ncbi.nlm.nih.gov/1826762/
+FFAR1|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR1,GtoPdb_1049_α-linolenic acid,GtoPdb,12496284,https://pubmed.ncbi.nlm.nih.gov/12496284/
+FFAR1|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR1,GtoPdb_1049_α-linolenic acid,GtoPdb,12565875,https://pubmed.ncbi.nlm.nih.gov/12565875/
+FFAR1|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR1,GtoPdb_1049_α-linolenic acid,GtoPdb,12629551,https://pubmed.ncbi.nlm.nih.gov/12629551/
+FFAR1|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR1,GtoPdb_1049_α-linolenic acid,ChEMBL,19007110,https://pubmed.ncbi.nlm.nih.gov/19007110/
+FFAR1|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR1,GtoPdb_1049_α-linolenic acid,ChEMBL,22519963,https://pubmed.ncbi.nlm.nih.gov/22519963/
+FFAR1|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR1,GtoPdb_1049_α-linolenic acid,ChEMBL,26928019,https://pubmed.ncbi.nlm.nih.gov/26928019/
+FFAR1|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR1,GtoPdb_1049_α-linolenic acid,ChEMBL,30212763,https://pubmed.ncbi.nlm.nih.gov/30212763/
+FFAR1|MBMBGCFOFBJSGT-KUBAVDMBSA-N,FFAR1,Docosahexaenoic Acid,GtoPdb,12496284,https://pubmed.ncbi.nlm.nih.gov/12496284/
+FFAR1|MBMBGCFOFBJSGT-KUBAVDMBSA-N,FFAR1,Docosahexaenoic Acid,GtoPdb,12629551,https://pubmed.ncbi.nlm.nih.gov/12629551/
+FFAR1|MBMBGCFOFBJSGT-KUBAVDMBSA-N,FFAR1,Docosahexaenoic Acid,ChEMBL,24900539,https://pubmed.ncbi.nlm.nih.gov/24900539/
+FFAR1|TUNFSRHWOTWDNC-UHFFFAOYSA-N,FFAR1,Myristic acid,GtoPdb,12496284,https://pubmed.ncbi.nlm.nih.gov/12496284/
+FFAR1|TUNFSRHWOTWDNC-UHFFFAOYSA-N,FFAR1,Myristic acid,GtoPdb,12565875,https://pubmed.ncbi.nlm.nih.gov/12565875/
+FFAR1|TUNFSRHWOTWDNC-UHFFFAOYSA-N,FFAR1,Myristic acid,GtoPdb,12629551,https://pubmed.ncbi.nlm.nih.gov/12629551/
+FFAR1|ZQPPMHVWECSIRJ-KTKRTIGZSA-N,FFAR1,Oleic acid,GtoPdb,12496284,https://pubmed.ncbi.nlm.nih.gov/12496284/
+FFAR1|ZQPPMHVWECSIRJ-KTKRTIGZSA-N,FFAR1,Oleic acid,GtoPdb,12565875,https://pubmed.ncbi.nlm.nih.gov/12565875/
+FFAR1|ZQPPMHVWECSIRJ-KTKRTIGZSA-N,FFAR1,Oleic acid,GtoPdb,12629551,https://pubmed.ncbi.nlm.nih.gov/12629551/
+FFAR2|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR2,GtoPdb_1059_butyric acid,GtoPdb,12496283,https://pubmed.ncbi.nlm.nih.gov/12496283/
+FFAR2|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR2,GtoPdb_1059_butyric acid,GtoPdb,12684041,https://pubmed.ncbi.nlm.nih.gov/12684041/
+FFAR2|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR2,GtoPdb_1059_butyric acid,GtoPdb,12711604,https://pubmed.ncbi.nlm.nih.gov/12711604/
+FFAR2|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR2,GtoPdb_1059_butyric acid,GtoPdb,21220428,https://pubmed.ncbi.nlm.nih.gov/21220428/
+FFAR2|QTBSBXVTEAMEQO-UHFFFAOYSA-N,FFAR2,GtoPdb_1058_acetic acid,GtoPdb,12496283,https://pubmed.ncbi.nlm.nih.gov/12496283/
+FFAR2|QTBSBXVTEAMEQO-UHFFFAOYSA-N,FFAR2,GtoPdb_1058_acetic acid,GtoPdb,12684041,https://pubmed.ncbi.nlm.nih.gov/12684041/
+FFAR2|QTBSBXVTEAMEQO-UHFFFAOYSA-N,FFAR2,GtoPdb_1058_acetic acid,GtoPdb,12711604,https://pubmed.ncbi.nlm.nih.gov/12711604/
+FFAR2|QTBSBXVTEAMEQO-UHFFFAOYSA-N,FFAR2,GtoPdb_1058_acetic acid,GtoPdb,21220428,https://pubmed.ncbi.nlm.nih.gov/21220428/
+FFAR2|QTBSBXVTEAMEQO-UHFFFAOYSA-N,FFAR2,GtoPdb_1058_acetic acid,BindingDB,20005104,https://pubmed.ncbi.nlm.nih.gov/20005104/
+FFAR2|QTBSBXVTEAMEQO-UHFFFAOYSA-N,FFAR2,GtoPdb_1058_acetic acid,BindingDB,28745893,https://pubmed.ncbi.nlm.nih.gov/28745893/
+FFAR2|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR2,GtoPdb_1062_propanoic acid,GtoPdb,12496283,https://pubmed.ncbi.nlm.nih.gov/12496283/
+FFAR2|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR2,GtoPdb_1062_propanoic acid,GtoPdb,12684041,https://pubmed.ncbi.nlm.nih.gov/12684041/
+FFAR2|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR2,GtoPdb_1062_propanoic acid,GtoPdb,12711604,https://pubmed.ncbi.nlm.nih.gov/12711604/
+FFAR2|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR2,GtoPdb_1062_propanoic acid,GtoPdb,21220428,https://pubmed.ncbi.nlm.nih.gov/21220428/
+FFAR2|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR2,GtoPdb_1062_propanoic acid,BindingDB,20005104,https://pubmed.ncbi.nlm.nih.gov/20005104/
+FFAR2|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR2,GtoPdb_1062_propanoic acid,BindingDB,28745893,https://pubmed.ncbi.nlm.nih.gov/28745893/
+FFAR2|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR2,GtoPdb_1062_propanoic acid,BindingDB,30253886,https://pubmed.ncbi.nlm.nih.gov/30253886/
+FFAR3|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR3,GtoPdb_1059_butyric acid,GtoPdb,12496283,https://pubmed.ncbi.nlm.nih.gov/12496283/
+FFAR3|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR3,GtoPdb_1059_butyric acid,GtoPdb,12711604,https://pubmed.ncbi.nlm.nih.gov/12711604/
+FFAR3|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR3,GtoPdb_1059_butyric acid,GtoPdb,14722361,https://pubmed.ncbi.nlm.nih.gov/14722361/
+FFAR3|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR3,GtoPdb_1059_butyric acid,GtoPdb,21220428,https://pubmed.ncbi.nlm.nih.gov/21220428/
+FFAR3|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR3,GtoPdb_1059_butyric acid,ChEMBL,28745893,https://pubmed.ncbi.nlm.nih.gov/28745893/
+FFAR3|FERIUCNNQQJTOY-UHFFFAOYSA-N,FFAR3,GtoPdb_1059_butyric acid,BindingDB,28745893,https://pubmed.ncbi.nlm.nih.gov/28745893/
+FFAR3|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR3,GtoPdb_1062_propanoic acid,GtoPdb,12496283,https://pubmed.ncbi.nlm.nih.gov/12496283/
+FFAR3|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR3,GtoPdb_1062_propanoic acid,GtoPdb,12711604,https://pubmed.ncbi.nlm.nih.gov/12711604/
+FFAR3|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR3,GtoPdb_1062_propanoic acid,GtoPdb,14722361,https://pubmed.ncbi.nlm.nih.gov/14722361/
+FFAR3|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR3,GtoPdb_1062_propanoic acid,GtoPdb,21220428,https://pubmed.ncbi.nlm.nih.gov/21220428/
+FFAR3|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR3,GtoPdb_1062_propanoic acid,ChEMBL,28745893,https://pubmed.ncbi.nlm.nih.gov/28745893/
+FFAR3|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR3,GtoPdb_1062_propanoic acid,ChEMBL,32141297,https://pubmed.ncbi.nlm.nih.gov/32141297/
+FFAR3|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR3,GtoPdb_1062_propanoic acid,BindingDB,28745893,https://pubmed.ncbi.nlm.nih.gov/28745893/
+FFAR3|XBDQKXXYIPTUBI-UHFFFAOYSA-N,FFAR3,GtoPdb_1062_propanoic acid,BindingDB,32141297,https://pubmed.ncbi.nlm.nih.gov/32141297/
+FFAR4|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR4,GtoPdb_1049_α-linolenic acid,GtoPdb,22519963,https://pubmed.ncbi.nlm.nih.gov/22519963/
+FFAR4|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR4,GtoPdb_1049_α-linolenic acid,ChEMBL,19007110,https://pubmed.ncbi.nlm.nih.gov/19007110/
+FFAR4|DTOSIQBPPRVQHS-PDBXOOCHSA-N,FFAR4,GtoPdb_1049_α-linolenic acid,ChEMBL,22519963,https://pubmed.ncbi.nlm.nih.gov/22519963/
+FFAR4|OYHQOLUKZRVURQ-HZJYTTRNSA-N,FFAR4,GtoPdb_1052_linoleic acid,GtoPdb,16702987,https://pubmed.ncbi.nlm.nih.gov/16702987/
+FFAR4|OYHQOLUKZRVURQ-HZJYTTRNSA-N,FFAR4,GtoPdb_1052_linoleic acid,ChEMBL,24881566,https://pubmed.ncbi.nlm.nih.gov/24881566/
+FFAR4|TUNFSRHWOTWDNC-UHFFFAOYSA-N,FFAR4,Myristic acid,GtoPdb,22282525,https://pubmed.ncbi.nlm.nih.gov/22282525/
+FFAR4|ZQPPMHVWECSIRJ-KTKRTIGZSA-N,FFAR4,Oleic acid,GtoPdb,22282525,https://pubmed.ncbi.nlm.nih.gov/22282525/
+FPR2|IXAQOQZEOGMIQS-SSQFXEBMSA-N,FPR2,GtoPdb_1034_LXA4,GtoPdb,1322894,https://pubmed.ncbi.nlm.nih.gov/1322894/
+FPR2|IXAQOQZEOGMIQS-SSQFXEBMSA-N,FPR2,GtoPdb_1034_LXA4,GtoPdb,8006586,https://pubmed.ncbi.nlm.nih.gov/8006586/
+FPR2|IXAQOQZEOGMIQS-SSQFXEBMSA-N,FPR2,GtoPdb_1034_LXA4,ChEMBL,30419493,https://pubmed.ncbi.nlm.nih.gov/30419493/
+FPR2|OIWTWACQMDFHJG-BJEBZIPWSA-N,FPR2,GtoPdb_6239_aspirin-triggered resolvin D1,GtoPdb,22449948,https://pubmed.ncbi.nlm.nih.gov/22449948/
+FPR2|OIWTWACQMDFHJG-LDOXQWQISA-N,FPR2,GtoPdb_3934_resolvin D1,GtoPdb,20080636,https://pubmed.ncbi.nlm.nih.gov/20080636/
+GABBR1|BTCSSZJGUNDROE-UHFFFAOYSA-N,GABBR1,γ-Aminobutyric acid,ChEMBL,18528996,https://pubmed.ncbi.nlm.nih.gov/18528996/
+GABBR1|BTCSSZJGUNDROE-UHFFFAOYSA-N,GABBR1,γ-Aminobutyric acid,BindingDB,18528996,https://pubmed.ncbi.nlm.nih.gov/18528996/
+GPBAR1|BHQCQFFYRZLCQQ-OELDTZBJSA-N,GPBAR1,Cholic acid,GtoPdb,12419312,https://pubmed.ncbi.nlm.nih.gov/12419312/
+GPBAR1|BHQCQFFYRZLCQQ-OELDTZBJSA-N,GPBAR1,Cholic acid,ChEMBL,17685603,https://pubmed.ncbi.nlm.nih.gov/17685603/
+GPBAR1|BHQCQFFYRZLCQQ-OELDTZBJSA-N,GPBAR1,Cholic acid,ChEMBL,20801037,https://pubmed.ncbi.nlm.nih.gov/20801037/
+GPBAR1|BHQCQFFYRZLCQQ-OELDTZBJSA-N,GPBAR1,Cholic acid,ChEMBL,37536263,https://pubmed.ncbi.nlm.nih.gov/37536263/
+GPBAR1|BHQCQFFYRZLCQQ-OELDTZBJSA-N,GPBAR1,Cholic acid,ChEMBL,37813065,https://pubmed.ncbi.nlm.nih.gov/37813065/
+GPBAR1|BHQCQFFYRZLCQQ-OELDTZBJSA-N,GPBAR1,Cholic acid,ChEMBL,39309359,https://pubmed.ncbi.nlm.nih.gov/39309359/
+GPBAR1|KXGVEGMKQFWNSR-LLQZFEROSA-N,GPBAR1,Deoxycholic acid,GtoPdb,12419312,https://pubmed.ncbi.nlm.nih.gov/12419312/
+GPBAR1|KXGVEGMKQFWNSR-LLQZFEROSA-N,GPBAR1,Deoxycholic acid,ChEMBL,18307294,https://pubmed.ncbi.nlm.nih.gov/18307294/
+GPBAR1|KXGVEGMKQFWNSR-LLQZFEROSA-N,GPBAR1,Deoxycholic acid,ChEMBL,39309359,https://pubmed.ncbi.nlm.nih.gov/39309359/
+GPBAR1|RUDATBOHQWOJDD-BSWAIDMHSA-N,GPBAR1,Chenodeoxycholic Acid,GtoPdb,12419312,https://pubmed.ncbi.nlm.nih.gov/12419312/
+GPBAR1|RUDATBOHQWOJDD-BSWAIDMHSA-N,GPBAR1,Chenodeoxycholic Acid,ChEMBL,17685603,https://pubmed.ncbi.nlm.nih.gov/17685603/
+GPBAR1|RUDATBOHQWOJDD-BSWAIDMHSA-N,GPBAR1,Chenodeoxycholic Acid,ChEMBL,21459580,https://pubmed.ncbi.nlm.nih.gov/21459580/
+GPBAR1|RUDATBOHQWOJDD-BSWAIDMHSA-N,GPBAR1,Chenodeoxycholic Acid,ChEMBL,25735208,https://pubmed.ncbi.nlm.nih.gov/25735208/
+GPBAR1|RUDATBOHQWOJDD-BSWAIDMHSA-N,GPBAR1,Chenodeoxycholic Acid,ChEMBL,27652492,https://pubmed.ncbi.nlm.nih.gov/27652492/
+GPBAR1|RUDATBOHQWOJDD-BSWAIDMHSA-N,GPBAR1,Chenodeoxycholic Acid,ChEMBL,31268316,https://pubmed.ncbi.nlm.nih.gov/31268316/
+GPBAR1|RUDATBOHQWOJDD-BSWAIDMHSA-N,GPBAR1,Chenodeoxycholic Acid,ChEMBL,39309359,https://pubmed.ncbi.nlm.nih.gov/39309359/
+GPBAR1|SMEROWZSTRWXGI-HVATVPOCSA-N,GPBAR1,Lithocholic acid,GtoPdb,12419312,https://pubmed.ncbi.nlm.nih.gov/12419312/
+GPBAR1|SMEROWZSTRWXGI-HVATVPOCSA-N,GPBAR1,Lithocholic acid,ChEMBL,18307294,https://pubmed.ncbi.nlm.nih.gov/18307294/
+GPBAR1|SMEROWZSTRWXGI-HVATVPOCSA-N,GPBAR1,Lithocholic acid,ChEMBL,24900463,https://pubmed.ncbi.nlm.nih.gov/24900463/
+GPBAR1|SMEROWZSTRWXGI-HVATVPOCSA-N,GPBAR1,Lithocholic acid,ChEMBL,25735208,https://pubmed.ncbi.nlm.nih.gov/25735208/
+GPBAR1|SMEROWZSTRWXGI-HVATVPOCSA-N,GPBAR1,Lithocholic acid,ChEMBL,38996653,https://pubmed.ncbi.nlm.nih.gov/38996653/
+GPBAR1|SMEROWZSTRWXGI-HVATVPOCSA-N,GPBAR1,Lithocholic acid,ChEMBL,39309359,https://pubmed.ncbi.nlm.nih.gov/39309359/
+GPER1|VOXZDWNPVJITMN-ZBRFXRBCSA-N,GPER1,Estradiol,GtoPdb,15539556,https://pubmed.ncbi.nlm.nih.gov/15539556/
+GPER1|VOXZDWNPVJITMN-ZBRFXRBCSA-N,GPER1,Estradiol,GtoPdb,15705806,https://pubmed.ncbi.nlm.nih.gov/15705806/
+GPR119|BOWVQLFMWHZBEF-KTKRTIGZSA-N,GPR119,Oleoylethanolamide,GtoPdb,16517404,https://pubmed.ncbi.nlm.nih.gov/16517404/
+GPR119|BOWVQLFMWHZBEF-KTKRTIGZSA-N,GPR119,Oleoylethanolamide,GtoPdb,19901198,https://pubmed.ncbi.nlm.nih.gov/19901198/
+GPR119|BOWVQLFMWHZBEF-KTKRTIGZSA-N,GPR119,Oleoylethanolamide,GtoPdb,23396314,https://pubmed.ncbi.nlm.nih.gov/23396314/
+GPR119|BOWVQLFMWHZBEF-KTKRTIGZSA-N,GPR119,Oleoylethanolamide,ChEMBL,23357035,https://pubmed.ncbi.nlm.nih.gov/23357035/
+GPR12|DUYSYHSSBDVJSM-KRWOKUGFSA-N,GPR12,Sphingosine-1-phosphate,GtoPdb,12220620,https://pubmed.ncbi.nlm.nih.gov/12220620/
+GPR132|NPDSHTNEKLQQIJ-UINYOVNOSA-N,GPR132,GtoPdb_5567_9-hydroxyoctadecadienoic acid,GtoPdb,16236715,https://pubmed.ncbi.nlm.nih.gov/16236715/
+GPR139|COLNVLDHVKWLRT-QMMMGPOBSA-N,GPR139,L-Phenylalanine,GtoPdb,24826842,https://pubmed.ncbi.nlm.nih.gov/24826842/
+GPR139|COLNVLDHVKWLRT-QMMMGPOBSA-N,GPR139,L-Phenylalanine,GtoPdb,26349500,https://pubmed.ncbi.nlm.nih.gov/26349500/
+GPR139|QIVBCDIJIAJPQS-VIFPVBQESA-N,GPR139,L-Tryptophan,GtoPdb,24826842,https://pubmed.ncbi.nlm.nih.gov/24826842/
+GPR139|QIVBCDIJIAJPQS-VIFPVBQESA-N,GPR139,L-Tryptophan,GtoPdb,26349500,https://pubmed.ncbi.nlm.nih.gov/26349500/
+GPR17|GWNVDXQDILPJIG-NXOLIXFESA-N,GPR17,GtoPdb_3354_LTC4,GtoPdb,16990797,https://pubmed.ncbi.nlm.nih.gov/16990797/
+GPR17|HSCJRCZFDFQWRP-ABVWGUQPSA-N,GPR17,GtoPdb_1782_UDP-galactose,GtoPdb,16990797,https://pubmed.ncbi.nlm.nih.gov/16990797/
+GPR17|HSCJRCZFDFQWRP-ABVWGUQPSA-N,GPR17,GtoPdb_1782_UDP-galactose,GtoPdb,20148890,https://pubmed.ncbi.nlm.nih.gov/20148890/
+GPR17|HSCJRCZFDFQWRP-JZMIEXBBSA-N,GPR17,GtoPdb_1783_UDP-glucose,GtoPdb,16990797,https://pubmed.ncbi.nlm.nih.gov/16990797/
+GPR17|HSCJRCZFDFQWRP-JZMIEXBBSA-N,GPR17,GtoPdb_1783_UDP-glucose,GtoPdb,20148890,https://pubmed.ncbi.nlm.nih.gov/20148890/
+GPR17|XCCTYIAWTASOJW-XVFCMESISA-N,GPR17,GtoPdb_1749_UDP,GtoPdb,16990797,https://pubmed.ncbi.nlm.nih.gov/16990797/
+GPR17|XCCTYIAWTASOJW-XVFCMESISA-N,GPR17,GtoPdb_1749_UDP,GtoPdb,20148890,https://pubmed.ncbi.nlm.nih.gov/20148890/
+GPR17|YEESKJGWJFYOOK-LDDGIIIKSA-N,GPR17,GtoPdb_3353_LTD4,GtoPdb,16990797,https://pubmed.ncbi.nlm.nih.gov/16990797/
+GPR17|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,GPR17,GtoPdb_1713_ATP,GtoPdb,21773766,https://pubmed.ncbi.nlm.nih.gov/21773766/
+GPR174|ZPDQFUYPBVXUKS-YADHBBJMSA-N,GPR174,GtoPdb_4064_lysophosphatidylserine,GtoPdb,22983457,https://pubmed.ncbi.nlm.nih.gov/22983457/
+GPR18|YLEARPUNMCCKMP-DOFZRALJSA-N,GPR18,N-Arachidonylglycine,GtoPdb,21595653,https://pubmed.ncbi.nlm.nih.gov/21595653/
+GPR18|YLEARPUNMCCKMP-DOFZRALJSA-N,GPR18,N-Arachidonylglycine,ChEMBL,29902723,https://pubmed.ncbi.nlm.nih.gov/29902723/
+GPR183|BQMSKLCEWBSPPY-CGSQRZAOSA-N,GPR183,"GtoPdb_4355_7β, 25-dihydroxycholesterol",GtoPdb,21796211,https://pubmed.ncbi.nlm.nih.gov/21796211/
+GPR183|BQMSKLCEWBSPPY-IKVTXIKFSA-N,GPR183,"GtoPdb_4350_7α,25-dihydroxycholesterol",GtoPdb,21796211,https://pubmed.ncbi.nlm.nih.gov/21796211/
+GPR183|BQMSKLCEWBSPPY-IKVTXIKFSA-N,GPR183,"GtoPdb_4350_7α,25-dihydroxycholesterol",GtoPdb,21796212,https://pubmed.ncbi.nlm.nih.gov/21796212/
+GPR183|FYHRJWMENCALJY-YSQMORBQSA-N,GPR183,27-Hydroxycholesterol,GtoPdb,21796211,https://pubmed.ncbi.nlm.nih.gov/21796211/
+GPR183|INBGSXNNRGWLJU-ZHHJOTBYSA-N,GPR183,25-Hydroxycholesterol,GtoPdb,21796211,https://pubmed.ncbi.nlm.nih.gov/21796211/
+GPR183|OYXZMSRRJOYLLO-KGZHIOMZSA-N,GPR183,GtoPdb_4352_7β-hydroxycholesterol,GtoPdb,21796211,https://pubmed.ncbi.nlm.nih.gov/21796211/
+GPR183|OYXZMSRRJOYLLO-RVOWOUOISA-N,GPR183,GtoPdb_4351_7α-hydroxycholesterol,GtoPdb,21796211,https://pubmed.ncbi.nlm.nih.gov/21796211/
+GPR183|RXMHNAKZMGJANZ-BMOLSTJGSA-N,GPR183,"GtoPdb_4354_7β, 27-dihydroxycholesterol",GtoPdb,21796211,https://pubmed.ncbi.nlm.nih.gov/21796211/
+GPR183|RXMHNAKZMGJANZ-GNENNHQYSA-N,GPR183,"GtoPdb_4353_7α,27-dihydroxycholesterol",GtoPdb,21796211,https://pubmed.ncbi.nlm.nih.gov/21796211/
+GPR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,GPR3,Sphingosine-1-phosphate,GtoPdb,12220620,https://pubmed.ncbi.nlm.nih.gov/12220620/
+GPR32|IXAQOQZEOGMIQS-SSQFXEBMSA-N,GPR32,GtoPdb_1034_LXA4,GtoPdb,20080636,https://pubmed.ncbi.nlm.nih.gov/20080636/
+GPR32|OIWTWACQMDFHJG-LDOXQWQISA-N,GPR32,GtoPdb_3934_resolvin D1,GtoPdb,20080636,https://pubmed.ncbi.nlm.nih.gov/20080636/
+GPR34|ZPDQFUYPBVXUKS-YADHBBJMSA-N,GPR34,GtoPdb_4064_lysophosphatidylserine,GtoPdb,16460680,https://pubmed.ncbi.nlm.nih.gov/16460680/
+GPR34|ZPDQFUYPBVXUKS-YADHBBJMSA-N,GPR34,GtoPdb_4064_lysophosphatidylserine,GtoPdb,22343749,https://pubmed.ncbi.nlm.nih.gov/22343749/
+GPR35|HCZHHEIFKROPDY-UHFFFAOYSA-N,GPR35,Kynurenic acid,GtoPdb,16754668,https://pubmed.ncbi.nlm.nih.gov/16754668/
+GPR35|HCZHHEIFKROPDY-UHFFFAOYSA-N,GPR35,Kynurenic acid,GtoPdb,23396314,https://pubmed.ncbi.nlm.nih.gov/23396314/
+GPR35|HCZHHEIFKROPDY-UHFFFAOYSA-N,GPR35,Kynurenic acid,ChEMBL,23888932,https://pubmed.ncbi.nlm.nih.gov/23888932/
+GPR35|HCZHHEIFKROPDY-UHFFFAOYSA-N,GPR35,Kynurenic acid,BindingDB,22572579,https://pubmed.ncbi.nlm.nih.gov/22572579/
+GPR35|HCZHHEIFKROPDY-UHFFFAOYSA-N,GPR35,Kynurenic acid,BindingDB,23713606,https://pubmed.ncbi.nlm.nih.gov/23713606/
+GPR35|HCZHHEIFKROPDY-UHFFFAOYSA-N,GPR35,Kynurenic acid,BindingDB,23888932,https://pubmed.ncbi.nlm.nih.gov/23888932/
+GPR35|HCZHHEIFKROPDY-UHFFFAOYSA-N,GPR35,Kynurenic acid,BindingDB,27976894,https://pubmed.ncbi.nlm.nih.gov/27976894/
+GPR35|HCZHHEIFKROPDY-UHFFFAOYSA-N,GPR35,Kynurenic acid,BindingDB,33630609,https://pubmed.ncbi.nlm.nih.gov/33630609/
+GPR35|ZOOLJLSXNRZLDH-KTKRTIGZSA-N,GPR35,GtoPdb_2936_2-oleoyl-LPA,GtoPdb,20361937,https://pubmed.ncbi.nlm.nih.gov/20361937/
+GPR55|FBDBXJJQMHPGMP-IFUOQLDVSA-N,GPR55,GtoPdb_4028_lysophosphatidylinositol,GtoPdb,17765871,https://pubmed.ncbi.nlm.nih.gov/17765871/
+GPR55|FBDBXJJQMHPGMP-IFUOQLDVSA-N,GPR55,GtoPdb_4028_lysophosphatidylinositol,GtoPdb,20136841,https://pubmed.ncbi.nlm.nih.gov/20136841/
+GPR55|FBDBXJJQMHPGMP-IFUOQLDVSA-N,GPR55,GtoPdb_4028_lysophosphatidylinositol,GtoPdb,23396314,https://pubmed.ncbi.nlm.nih.gov/23396314/
+GPR55|HXYVTAGFYLMHSO-UHFFFAOYSA-N,GPR55,GtoPdb_3622_N-palmitoylethanolamine,GtoPdb,17876302,https://pubmed.ncbi.nlm.nih.gov/17876302/
+GPR55|LGEQQWMQCRIYKG-DOFZRALJSA-N,GPR55,GtoPdb_2364_anandamide,GtoPdb,17876302,https://pubmed.ncbi.nlm.nih.gov/17876302/
+GPR55|RCRCTBLIHCHWDZ-DOFZRALJSA-N,GPR55,GtoPdb_729_2-arachidonoylglycerol,GtoPdb,17876302,https://pubmed.ncbi.nlm.nih.gov/17876302/
+GPR63|DUYSYHSSBDVJSM-KRWOKUGFSA-N,GPR63,Sphingosine-1-phosphate,GtoPdb,12618218,https://pubmed.ncbi.nlm.nih.gov/12618218/
+GPR63|MHUWZNTUIIFHAS-CLFAGFIQSA-N,GPR63,GtoPdb_5512_dioleoylphosphatidic acid,GtoPdb,12618218,https://pubmed.ncbi.nlm.nih.gov/12618218/
+GPR63|YHEDRJPUIRMZMP-ZWKOTPCHSA-N,GPR63,GtoPdb_2921_dihydrosphingosine 1-phosphate,GtoPdb,12618218,https://pubmed.ncbi.nlm.nih.gov/12618218/
+GPR87|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,GPR87,GtoPdb_2906_LPA,GtoPdb,17905198,https://pubmed.ncbi.nlm.nih.gov/17905198/
+GPR87|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,GPR87,GtoPdb_2906_LPA,GtoPdb,18466763,https://pubmed.ncbi.nlm.nih.gov/18466763/
+GPRC6A|AHLPHDHHMVZTML-BYPYZUCNSA-N,GPRC6A,L-Ornithine,GtoPdb,15576628,https://pubmed.ncbi.nlm.nih.gov/15576628/
+GPRC6A|DHMQDGOQFOQNFH-UHFFFAOYSA-N,GPRC6A,Glycine,GtoPdb,15576628,https://pubmed.ncbi.nlm.nih.gov/15576628/
+GPRC6A|KDXKERNSBIXSRK-YFKPBYRVSA-N,GPRC6A,L-Lysine,GtoPdb,15576628,https://pubmed.ncbi.nlm.nih.gov/15576628/
+GPRC6A|MTCFGRXMJLQNBG-REOHCLBHSA-N,GPRC6A,L-Serine,GtoPdb,15576628,https://pubmed.ncbi.nlm.nih.gov/15576628/
+GPRC6A|ODKSFYDXXFIFQN-BYPYZUCNSA-N,GPRC6A,L-Arginine,GtoPdb,15576628,https://pubmed.ncbi.nlm.nih.gov/15576628/
+GPRC6A|QNAYBMKLOCPYGJ-REOHCLBHSA-N,GPRC6A,L-Alanine,GtoPdb,15576628,https://pubmed.ncbi.nlm.nih.gov/15576628/
+GPRC6A|RHGKLRLOHDJJDR-BYPYZUCNSA-N,GPRC6A,L-Citrulline,GtoPdb,15576628,https://pubmed.ncbi.nlm.nih.gov/15576628/
+GPRC6A|ZDXPYRJPNDTMRX-VKHMYHEASA-N,GPRC6A,L-Glutamine,GtoPdb,15576628,https://pubmed.ncbi.nlm.nih.gov/15576628/
+GRM1|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM1,L-Glutamic acid,GtoPdb,10443583,https://pubmed.ncbi.nlm.nih.gov/10443583/
+GRM1|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM1,L-Glutamic acid,ChEMBL,17725337,https://pubmed.ncbi.nlm.nih.gov/17725337/
+GRM1|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM1,L-Glutamic acid,ChEMBL,19042134,https://pubmed.ncbi.nlm.nih.gov/19042134/
+GRM2|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM2,L-Glutamic acid,GtoPdb,10443583,https://pubmed.ncbi.nlm.nih.gov/10443583/
+GRM2|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM2,L-Glutamic acid,GtoPdb,10530814,https://pubmed.ncbi.nlm.nih.gov/10530814/
+GRM2|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM2,L-Glutamic acid,ChEMBL,16213710,https://pubmed.ncbi.nlm.nih.gov/16213710/
+GRM2|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM2,L-Glutamic acid,ChEMBL,17725337,https://pubmed.ncbi.nlm.nih.gov/17725337/
+GRM2|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM2,L-Glutamic acid,ChEMBL,19042134,https://pubmed.ncbi.nlm.nih.gov/19042134/
+GRM2|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM2,L-Glutamic acid,ChEMBL,21232953,https://pubmed.ncbi.nlm.nih.gov/21232953/
+GRM3|OPVPGKGADVGKTG-BQBZGAKWSA-N,GRM3,Spaglumic Acid,GtoPdb,10884552,https://pubmed.ncbi.nlm.nih.gov/10884552/
+GRM3|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM3,L-Glutamic acid,GtoPdb,10443583,https://pubmed.ncbi.nlm.nih.gov/10443583/
+GRM3|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM3,L-Glutamic acid,GtoPdb,10530814,https://pubmed.ncbi.nlm.nih.gov/10530814/
+GRM3|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM3,L-Glutamic acid,ChEMBL,26313429,https://pubmed.ncbi.nlm.nih.gov/26313429/
+GRM4|BZQFBWGGLXLEPQ-REOHCLBHSA-N,GRM4,GtoPdb_1411_L-serine-O-phosphate,GtoPdb,9473604,https://pubmed.ncbi.nlm.nih.gov/9473604/
+GRM4|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM4,L-Glutamic acid,GtoPdb,10443583,https://pubmed.ncbi.nlm.nih.gov/10443583/
+GRM4|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM4,L-Glutamic acid,ChEMBL,17725337,https://pubmed.ncbi.nlm.nih.gov/17725337/
+GRM4|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM4,L-Glutamic acid,ChEMBL,19042134,https://pubmed.ncbi.nlm.nih.gov/19042134/
+GRM5|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM5,L-Glutamic acid,GtoPdb,10443583,https://pubmed.ncbi.nlm.nih.gov/10443583/
+GRM5|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM5,L-Glutamic acid,ChEMBL,17725337,https://pubmed.ncbi.nlm.nih.gov/17725337/
+GRM5|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM5,L-Glutamic acid,ChEMBL,19042134,https://pubmed.ncbi.nlm.nih.gov/19042134/
+GRM6|BZQFBWGGLXLEPQ-REOHCLBHSA-N,GRM6,GtoPdb_1411_L-serine-O-phosphate,GtoPdb,9144651,https://pubmed.ncbi.nlm.nih.gov/9144651/
+GRM6|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM6,L-Glutamic acid,GtoPdb,10443583,https://pubmed.ncbi.nlm.nih.gov/10443583/
+GRM6|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM6,L-Glutamic acid,GtoPdb,9144651,https://pubmed.ncbi.nlm.nih.gov/9144651/
+GRM7|BZQFBWGGLXLEPQ-REOHCLBHSA-N,GRM7,GtoPdb_1411_L-serine-O-phosphate,GtoPdb,11138847,https://pubmed.ncbi.nlm.nih.gov/11138847/
+GRM7|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM7,L-Glutamic acid,GtoPdb,10443583,https://pubmed.ncbi.nlm.nih.gov/10443583/
+GRM7|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM7,L-Glutamic acid,GtoPdb,11138847,https://pubmed.ncbi.nlm.nih.gov/11138847/
+GRM7|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM7,L-Glutamic acid,ChEMBL,26814576,https://pubmed.ncbi.nlm.nih.gov/26814576/
+GRM8|BZQFBWGGLXLEPQ-REOHCLBHSA-N,GRM8,GtoPdb_1411_L-serine-O-phosphate,GtoPdb,10216218,https://pubmed.ncbi.nlm.nih.gov/10216218/
+GRM8|BZQFBWGGLXLEPQ-REOHCLBHSA-N,GRM8,GtoPdb_1411_L-serine-O-phosphate,GtoPdb,9473604,https://pubmed.ncbi.nlm.nih.gov/9473604/
+GRM8|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM8,L-Glutamic acid,GtoPdb,10216218,https://pubmed.ncbi.nlm.nih.gov/10216218/
+GRM8|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM8,L-Glutamic acid,GtoPdb,10443583,https://pubmed.ncbi.nlm.nih.gov/10443583/
+GRM8|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM8,L-Glutamic acid,GtoPdb,9473604,https://pubmed.ncbi.nlm.nih.gov/9473604/
+GRM8|WHUUTDBJXJRKMK-VKHMYHEASA-N,GRM8,L-Glutamic acid,ChEMBL,15603952,https://pubmed.ncbi.nlm.nih.gov/15603952/
+HCAR1|JVTAAEKCZFNVCJ-REOHCLBHSA-N,HCAR1,L-Lactic acid,GtoPdb,18952058,https://pubmed.ncbi.nlm.nih.gov/18952058/
+HCAR1|JVTAAEKCZFNVCJ-REOHCLBHSA-N,HCAR1,L-Lactic acid,GtoPdb,19047060,https://pubmed.ncbi.nlm.nih.gov/19047060/
+HCAR1|JVTAAEKCZFNVCJ-REOHCLBHSA-N,HCAR1,L-Lactic acid,GtoPdb,20374963,https://pubmed.ncbi.nlm.nih.gov/20374963/
+HCAR1|JVTAAEKCZFNVCJ-REOHCLBHSA-N,HCAR1,L-Lactic acid,GtoPdb,23396314,https://pubmed.ncbi.nlm.nih.gov/23396314/
+HCAR2|WHBMMWSBFZVSSR-GSVOUGTGSA-N,HCAR2,(R)-3-Hydroxybutanoic acid,GtoPdb,15929991,https://pubmed.ncbi.nlm.nih.gov/15929991/
+HCAR3|NDPLAKGOSZHTPH-ZETCQYMHSA-N,HCAR3,GtoPdb_2933_3-hydroxyoctanoic acid,GtoPdb,19561068,https://pubmed.ncbi.nlm.nih.gov/19561068/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,GtoPdb,12065734,https://pubmed.ncbi.nlm.nih.gov/12065734/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,GtoPdb,12626648,https://pubmed.ncbi.nlm.nih.gov/12626648/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,GtoPdb,15206929,https://pubmed.ncbi.nlm.nih.gov/15206929/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,GtoPdb,16394198,https://pubmed.ncbi.nlm.nih.gov/16394198/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,GtoPdb,7925364,https://pubmed.ncbi.nlm.nih.gov/7925364/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,ChEMBL,12723960,https://pubmed.ncbi.nlm.nih.gov/12723960/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,ChEMBL,16408006,https://pubmed.ncbi.nlm.nih.gov/16408006/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,ChEMBL,16942032,https://pubmed.ncbi.nlm.nih.gov/16942032/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,ChEMBL,18950149,https://pubmed.ncbi.nlm.nih.gov/18950149/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,ChEMBL,21044842,https://pubmed.ncbi.nlm.nih.gov/21044842/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,ChEMBL,34110814,https://pubmed.ncbi.nlm.nih.gov/34110814/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,11809864,https://pubmed.ncbi.nlm.nih.gov/11809864/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,12626648,https://pubmed.ncbi.nlm.nih.gov/12626648/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,12723960,https://pubmed.ncbi.nlm.nih.gov/12723960/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,15033391,https://pubmed.ncbi.nlm.nih.gov/15033391/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,16408006,https://pubmed.ncbi.nlm.nih.gov/16408006/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,16554355,https://pubmed.ncbi.nlm.nih.gov/16554355/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,16942032,https://pubmed.ncbi.nlm.nih.gov/16942032/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,18950149,https://pubmed.ncbi.nlm.nih.gov/18950149/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,19317445,https://pubmed.ncbi.nlm.nih.gov/19317445/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,19791743,https://pubmed.ncbi.nlm.nih.gov/19791743/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,20409707,https://pubmed.ncbi.nlm.nih.gov/20409707/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,21044842,https://pubmed.ncbi.nlm.nih.gov/21044842/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,27007611,https://pubmed.ncbi.nlm.nih.gov/27007611/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,33548637,https://pubmed.ncbi.nlm.nih.gov/33548637/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,34110814,https://pubmed.ncbi.nlm.nih.gov/34110814/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,7925364,https://pubmed.ncbi.nlm.nih.gov/7925364/
+HRH1|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH1,Histamine,BindingDB,8903934,https://pubmed.ncbi.nlm.nih.gov/8903934/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,ChEMBL,12723960,https://pubmed.ncbi.nlm.nih.gov/12723960/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,ChEMBL,16942032,https://pubmed.ncbi.nlm.nih.gov/16942032/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,ChEMBL,18950149,https://pubmed.ncbi.nlm.nih.gov/18950149/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,ChEMBL,20409707,https://pubmed.ncbi.nlm.nih.gov/20409707/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,ChEMBL,21044842,https://pubmed.ncbi.nlm.nih.gov/21044842/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,ChEMBL,32832018,https://pubmed.ncbi.nlm.nih.gov/32832018/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,ChEMBL,33548637,https://pubmed.ncbi.nlm.nih.gov/33548637/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,ChEMBL,34110814,https://pubmed.ncbi.nlm.nih.gov/34110814/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,ChEMBL,34600035,https://pubmed.ncbi.nlm.nih.gov/34600035/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,12723960,https://pubmed.ncbi.nlm.nih.gov/12723960/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,16554355,https://pubmed.ncbi.nlm.nih.gov/16554355/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,16942032,https://pubmed.ncbi.nlm.nih.gov/16942032/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,18950149,https://pubmed.ncbi.nlm.nih.gov/18950149/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,19317445,https://pubmed.ncbi.nlm.nih.gov/19317445/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,19791743,https://pubmed.ncbi.nlm.nih.gov/19791743/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,20409707,https://pubmed.ncbi.nlm.nih.gov/20409707/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,21044842,https://pubmed.ncbi.nlm.nih.gov/21044842/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,22216892,https://pubmed.ncbi.nlm.nih.gov/22216892/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,32832018,https://pubmed.ncbi.nlm.nih.gov/32832018/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,33548637,https://pubmed.ncbi.nlm.nih.gov/33548637/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,34110814,https://pubmed.ncbi.nlm.nih.gov/34110814/
+HRH2|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH2,Histamine,BindingDB,34600035,https://pubmed.ncbi.nlm.nih.gov/34600035/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,GtoPdb,10869375,https://pubmed.ncbi.nlm.nih.gov/10869375/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,GtoPdb,11090094,https://pubmed.ncbi.nlm.nih.gov/11090094/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,GtoPdb,11179434,https://pubmed.ncbi.nlm.nih.gov/11179434/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,GtoPdb,11284713,https://pubmed.ncbi.nlm.nih.gov/11284713/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,GtoPdb,12393057,https://pubmed.ncbi.nlm.nih.gov/12393057/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,GtoPdb,14640553,https://pubmed.ncbi.nlm.nih.gov/14640553/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,12723960,https://pubmed.ncbi.nlm.nih.gov/12723960/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,16942032,https://pubmed.ncbi.nlm.nih.gov/16942032/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,18950149,https://pubmed.ncbi.nlm.nih.gov/18950149/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,20384344,https://pubmed.ncbi.nlm.nih.gov/20384344/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,20409707,https://pubmed.ncbi.nlm.nih.gov/20409707/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,21044842,https://pubmed.ncbi.nlm.nih.gov/21044842/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,21348462,https://pubmed.ncbi.nlm.nih.gov/21348462/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,22003888,https://pubmed.ncbi.nlm.nih.gov/22003888/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,31675226,https://pubmed.ncbi.nlm.nih.gov/31675226/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,32105981,https://pubmed.ncbi.nlm.nih.gov/32105981/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,33333448,https://pubmed.ncbi.nlm.nih.gov/33333448/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,34110814,https://pubmed.ncbi.nlm.nih.gov/34110814/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,34309390,https://pubmed.ncbi.nlm.nih.gov/34309390/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,ChEMBL,37974943,https://pubmed.ncbi.nlm.nih.gov/37974943/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,10869375,https://pubmed.ncbi.nlm.nih.gov/10869375/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,11179434,https://pubmed.ncbi.nlm.nih.gov/11179434/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,12723960,https://pubmed.ncbi.nlm.nih.gov/12723960/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,12825954,https://pubmed.ncbi.nlm.nih.gov/12825954/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,14640553,https://pubmed.ncbi.nlm.nih.gov/14640553/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,15033391,https://pubmed.ncbi.nlm.nih.gov/15033391/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,15947036,https://pubmed.ncbi.nlm.nih.gov/15947036/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,16942032,https://pubmed.ncbi.nlm.nih.gov/16942032/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,18950149,https://pubmed.ncbi.nlm.nih.gov/18950149/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,19317445,https://pubmed.ncbi.nlm.nih.gov/19317445/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,19791743,https://pubmed.ncbi.nlm.nih.gov/19791743/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,20384344,https://pubmed.ncbi.nlm.nih.gov/20384344/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,20409707,https://pubmed.ncbi.nlm.nih.gov/20409707/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,21044842,https://pubmed.ncbi.nlm.nih.gov/21044842/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,21348462,https://pubmed.ncbi.nlm.nih.gov/21348462/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,22003888,https://pubmed.ncbi.nlm.nih.gov/22003888/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,27007611,https://pubmed.ncbi.nlm.nih.gov/27007611/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,31675226,https://pubmed.ncbi.nlm.nih.gov/31675226/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,32105981,https://pubmed.ncbi.nlm.nih.gov/32105981/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,32420741,https://pubmed.ncbi.nlm.nih.gov/32420741/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,33333448,https://pubmed.ncbi.nlm.nih.gov/33333448/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,33548637,https://pubmed.ncbi.nlm.nih.gov/33548637/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,34110814,https://pubmed.ncbi.nlm.nih.gov/34110814/
+HRH3|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH3,Histamine,BindingDB,34309390,https://pubmed.ncbi.nlm.nih.gov/34309390/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,GtoPdb,11179434,https://pubmed.ncbi.nlm.nih.gov/11179434/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,GtoPdb,11179436,https://pubmed.ncbi.nlm.nih.gov/11179436/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,GtoPdb,11181941,https://pubmed.ncbi.nlm.nih.gov/11181941/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,GtoPdb,11561071,https://pubmed.ncbi.nlm.nih.gov/11561071/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,GtoPdb,15454206,https://pubmed.ncbi.nlm.nih.gov/15454206/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,GtoPdb,15947036,https://pubmed.ncbi.nlm.nih.gov/15947036/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,GtoPdb,16432504,https://pubmed.ncbi.nlm.nih.gov/16432504/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,12723960,https://pubmed.ncbi.nlm.nih.gov/12723960/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,14640553,https://pubmed.ncbi.nlm.nih.gov/14640553/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,15454206,https://pubmed.ncbi.nlm.nih.gov/15454206/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,16942032,https://pubmed.ncbi.nlm.nih.gov/16942032/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,18357976,https://pubmed.ncbi.nlm.nih.gov/18357976/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,18459760,https://pubmed.ncbi.nlm.nih.gov/18459760/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,18950149,https://pubmed.ncbi.nlm.nih.gov/18950149/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,19773175,https://pubmed.ncbi.nlm.nih.gov/19773175/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,20409707,https://pubmed.ncbi.nlm.nih.gov/20409707/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,20452213,https://pubmed.ncbi.nlm.nih.gov/20452213/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,21044842,https://pubmed.ncbi.nlm.nih.gov/21044842/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,21348462,https://pubmed.ncbi.nlm.nih.gov/21348462/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,22003888,https://pubmed.ncbi.nlm.nih.gov/22003888/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,22153663,https://pubmed.ncbi.nlm.nih.gov/22153663/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,25993395,https://pubmed.ncbi.nlm.nih.gov/25993395/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,26718844,https://pubmed.ncbi.nlm.nih.gov/26718844/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,27007611,https://pubmed.ncbi.nlm.nih.gov/27007611/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,31469288,https://pubmed.ncbi.nlm.nih.gov/31469288/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,33333448,https://pubmed.ncbi.nlm.nih.gov/33333448/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,ChEMBL,34110814,https://pubmed.ncbi.nlm.nih.gov/34110814/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,11179434,https://pubmed.ncbi.nlm.nih.gov/11179434/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,11179435,https://pubmed.ncbi.nlm.nih.gov/11179435/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,11179436,https://pubmed.ncbi.nlm.nih.gov/11179436/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,12723960,https://pubmed.ncbi.nlm.nih.gov/12723960/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,12825954,https://pubmed.ncbi.nlm.nih.gov/12825954/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,14640553,https://pubmed.ncbi.nlm.nih.gov/14640553/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,15033391,https://pubmed.ncbi.nlm.nih.gov/15033391/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,15947036,https://pubmed.ncbi.nlm.nih.gov/15947036/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,16942032,https://pubmed.ncbi.nlm.nih.gov/16942032/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,17154494,https://pubmed.ncbi.nlm.nih.gov/17154494/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,18357976,https://pubmed.ncbi.nlm.nih.gov/18357976/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,18459760,https://pubmed.ncbi.nlm.nih.gov/18459760/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,18950149,https://pubmed.ncbi.nlm.nih.gov/18950149/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,19317445,https://pubmed.ncbi.nlm.nih.gov/19317445/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,19791743,https://pubmed.ncbi.nlm.nih.gov/19791743/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,20192225,https://pubmed.ncbi.nlm.nih.gov/20192225/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,20409707,https://pubmed.ncbi.nlm.nih.gov/20409707/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,20452213,https://pubmed.ncbi.nlm.nih.gov/20452213/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,21044842,https://pubmed.ncbi.nlm.nih.gov/21044842/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,21348462,https://pubmed.ncbi.nlm.nih.gov/21348462/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,22003888,https://pubmed.ncbi.nlm.nih.gov/22003888/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,22153663,https://pubmed.ncbi.nlm.nih.gov/22153663/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,25993395,https://pubmed.ncbi.nlm.nih.gov/25993395/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,26718844,https://pubmed.ncbi.nlm.nih.gov/26718844/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,27007611,https://pubmed.ncbi.nlm.nih.gov/27007611/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,31469288,https://pubmed.ncbi.nlm.nih.gov/31469288/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,32420741,https://pubmed.ncbi.nlm.nih.gov/32420741/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,33333448,https://pubmed.ncbi.nlm.nih.gov/33333448/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,33548637,https://pubmed.ncbi.nlm.nih.gov/33548637/
+HRH4|NTYJJOPFIAHURM-UHFFFAOYSA-N,HRH4,Histamine,BindingDB,34110814,https://pubmed.ncbi.nlm.nih.gov/34110814/
+LPAR2|VWFJDQUYCIWHTN-FBXUGWQNSA-N,LPAR2,GtoPdb_2910_farnesyl diphosphate,GtoPdb,19366702,https://pubmed.ncbi.nlm.nih.gov/19366702/
+LPAR2|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR2,GtoPdb_2906_LPA,GtoPdb,10727522,https://pubmed.ncbi.nlm.nih.gov/10727522/
+LPAR2|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR2,GtoPdb_2906_LPA,GtoPdb,15177455,https://pubmed.ncbi.nlm.nih.gov/15177455/
+LPAR3|ALEWCKXBHSDCCT-FBXUGWQNSA-N,LPAR3,GtoPdb_2911_farnesyl monophosphate,GtoPdb,17092771,https://pubmed.ncbi.nlm.nih.gov/17092771/
+LPAR3|ALEWCKXBHSDCCT-FBXUGWQNSA-N,LPAR3,GtoPdb_2911_farnesyl monophosphate,GtoPdb,19366702,https://pubmed.ncbi.nlm.nih.gov/19366702/
+LPAR3|VWFJDQUYCIWHTN-FBXUGWQNSA-N,LPAR3,GtoPdb_2910_farnesyl diphosphate,GtoPdb,17092771,https://pubmed.ncbi.nlm.nih.gov/17092771/
+LPAR3|VWFJDQUYCIWHTN-FBXUGWQNSA-N,LPAR3,GtoPdb_2910_farnesyl diphosphate,GtoPdb,19366702,https://pubmed.ncbi.nlm.nih.gov/19366702/
+LPAR3|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR3,GtoPdb_2906_LPA,GtoPdb,10488122,https://pubmed.ncbi.nlm.nih.gov/10488122/
+LPAR4|VWFJDQUYCIWHTN-FBXUGWQNSA-N,LPAR4,GtoPdb_2910_farnesyl diphosphate,GtoPdb,19366702,https://pubmed.ncbi.nlm.nih.gov/19366702/
+LPAR4|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR4,GtoPdb_2906_LPA,GtoPdb,12724320,https://pubmed.ncbi.nlm.nih.gov/12724320/
+LPAR5|ALEWCKXBHSDCCT-FBXUGWQNSA-N,LPAR5,GtoPdb_2911_farnesyl monophosphate,GtoPdb,19366702,https://pubmed.ncbi.nlm.nih.gov/19366702/
+LPAR5|VWFJDQUYCIWHTN-FBXUGWQNSA-N,LPAR5,GtoPdb_2910_farnesyl diphosphate,GtoPdb,18499677,https://pubmed.ncbi.nlm.nih.gov/18499677/
+LPAR5|VWFJDQUYCIWHTN-FBXUGWQNSA-N,LPAR5,GtoPdb_2910_farnesyl diphosphate,GtoPdb,19366702,https://pubmed.ncbi.nlm.nih.gov/19366702/
+LPAR5|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR5,GtoPdb_2906_LPA,GtoPdb,16651401,https://pubmed.ncbi.nlm.nih.gov/16651401/
+LPAR5|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR5,GtoPdb_2906_LPA,GtoPdb,18499677,https://pubmed.ncbi.nlm.nih.gov/18499677/
+LPAR5|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR5,GtoPdb_2906_LPA,GtoPdb,20056548,https://pubmed.ncbi.nlm.nih.gov/20056548/
+LPAR5|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR5,GtoPdb_2906_LPA,GtoPdb,23396314,https://pubmed.ncbi.nlm.nih.gov/23396314/
+LPAR5|YLEARPUNMCCKMP-DOFZRALJSA-N,LPAR5,N-Arachidonylglycine,GtoPdb,18499677,https://pubmed.ncbi.nlm.nih.gov/18499677/
+LPAR5|YLEARPUNMCCKMP-DOFZRALJSA-N,LPAR5,N-Arachidonylglycine,GtoPdb,19366702,https://pubmed.ncbi.nlm.nih.gov/19366702/
+LPAR6|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR6,GtoPdb_2906_LPA,GtoPdb,18297070,https://pubmed.ncbi.nlm.nih.gov/18297070/
+LPAR6|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,LPAR6,GtoPdb_2906_LPA,GtoPdb,19386608,https://pubmed.ncbi.nlm.nih.gov/19386608/
+LTB4R|PTJFJXLGRSTECQ-PSPARDEHSA-N,LTB4R,GtoPdb_3399_20-hydroxy-LTB4,GtoPdb,9177352,https://pubmed.ncbi.nlm.nih.gov/9177352/
+LTB4R|ZNHVWPKMFKADKW-ZYBDYUKJSA-N,LTB4R,GtoPdb_3405_12R-HETE,GtoPdb,9177352,https://pubmed.ncbi.nlm.nih.gov/9177352/
+LTB4R2|JSFATNQSLKRBCI-VAEKSGALSA-N,LTB4R2,GtoPdb_3401_15S-HETE,GtoPdb,11278893,https://pubmed.ncbi.nlm.nih.gov/11278893/
+LTB4R2|KUKJHGXXZWHSBG-WBGSEQOASA-N,LTB4R2,GtoPdb_6159_12-hydroxyheptadecatrienoic acid,GtoPdb,18378794,https://pubmed.ncbi.nlm.nih.gov/18378794/
+LTB4R2|VNYSSYRCGWBHLG-AMOLWHMGSA-N,LTB4R2,Leukotriene B4,GtoPdb,10934230,https://pubmed.ncbi.nlm.nih.gov/10934230/
+LTB4R2|VNYSSYRCGWBHLG-AMOLWHMGSA-N,LTB4R2,Leukotriene B4,GtoPdb,18378794,https://pubmed.ncbi.nlm.nih.gov/18378794/
+LTB4R2|VNYSSYRCGWBHLG-CBBLYLIKSA-N,LTB4R2,GtoPdb_6160_12-epi LTB4,GtoPdb,11278893,https://pubmed.ncbi.nlm.nih.gov/11278893/
+LTB4R2|ZNHVWPKMFKADKW-LQWMCKPYSA-N,LTB4R2,GtoPdb_3404_12S-HETE,GtoPdb,11278893,https://pubmed.ncbi.nlm.nih.gov/11278893/
+MRGPRD|UCMIRNVEIXFBKS-UHFFFAOYSA-N,MRGPRD,β-Alanine,GtoPdb,15037633,https://pubmed.ncbi.nlm.nih.gov/15037633/
+MRGPRD|UCMIRNVEIXFBKS-UHFFFAOYSA-N,MRGPRD,β-Alanine,GtoPdb,23396314,https://pubmed.ncbi.nlm.nih.gov/23396314/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,GtoPdb,12764576,https://pubmed.ncbi.nlm.nih.gov/12764576/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,GtoPdb,2991499,https://pubmed.ncbi.nlm.nih.gov/2991499/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,GtoPdb,9089668,https://pubmed.ncbi.nlm.nih.gov/9089668/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,12061881,https://pubmed.ncbi.nlm.nih.gov/12061881/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,12646022,https://pubmed.ncbi.nlm.nih.gov/12646022/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,17149869,https://pubmed.ncbi.nlm.nih.gov/17149869/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,17459711,https://pubmed.ncbi.nlm.nih.gov/17459711/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,18372181,https://pubmed.ncbi.nlm.nih.gov/18372181/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,18983139,https://pubmed.ncbi.nlm.nih.gov/18983139/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,19473848,https://pubmed.ncbi.nlm.nih.gov/19473848/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,21392858,https://pubmed.ncbi.nlm.nih.gov/21392858/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,21420861,https://pubmed.ncbi.nlm.nih.gov/21420861/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,21568291,https://pubmed.ncbi.nlm.nih.gov/21568291/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,21726069,https://pubmed.ncbi.nlm.nih.gov/21726069/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,23466604,https://pubmed.ncbi.nlm.nih.gov/23466604/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,23582449,https://pubmed.ncbi.nlm.nih.gov/23582449/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,26023814,https://pubmed.ncbi.nlm.nih.gov/26023814/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,26820449,https://pubmed.ncbi.nlm.nih.gov/26820449/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,26988801,https://pubmed.ncbi.nlm.nih.gov/26988801/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,31727472,https://pubmed.ncbi.nlm.nih.gov/31727472/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,33626870,https://pubmed.ncbi.nlm.nih.gov/33626870/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,33682410,https://pubmed.ncbi.nlm.nih.gov/33682410/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,35930058,https://pubmed.ncbi.nlm.nih.gov/35930058/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,ChEMBL,36724633,https://pubmed.ncbi.nlm.nih.gov/36724633/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,10737738,https://pubmed.ncbi.nlm.nih.gov/10737738/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,11063602,https://pubmed.ncbi.nlm.nih.gov/11063602/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,11520198,https://pubmed.ncbi.nlm.nih.gov/11520198/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,11960497,https://pubmed.ncbi.nlm.nih.gov/11960497/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,12061881,https://pubmed.ncbi.nlm.nih.gov/12061881/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,12213063,https://pubmed.ncbi.nlm.nih.gov/12213063/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,12643943,https://pubmed.ncbi.nlm.nih.gov/12643943/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,12646022,https://pubmed.ncbi.nlm.nih.gov/12646022/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,12672242,https://pubmed.ncbi.nlm.nih.gov/12672242/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,14643330,https://pubmed.ncbi.nlm.nih.gov/14643330/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,14980664,https://pubmed.ncbi.nlm.nih.gov/14980664/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,15013015,https://pubmed.ncbi.nlm.nih.gov/15013015/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,15203165,https://pubmed.ncbi.nlm.nih.gov/15203165/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,15293992,https://pubmed.ncbi.nlm.nih.gov/15293992/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,15380218,https://pubmed.ncbi.nlm.nih.gov/15380218/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,15713384,https://pubmed.ncbi.nlm.nih.gov/15713384/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,15943478,https://pubmed.ncbi.nlm.nih.gov/15943478/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,16759094,https://pubmed.ncbi.nlm.nih.gov/16759094/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,17459711,https://pubmed.ncbi.nlm.nih.gov/17459711/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,17481904,https://pubmed.ncbi.nlm.nih.gov/17481904/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,18052314,https://pubmed.ncbi.nlm.nih.gov/18052314/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,18372181,https://pubmed.ncbi.nlm.nih.gov/18372181/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,18657980,https://pubmed.ncbi.nlm.nih.gov/18657980/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,18778943,https://pubmed.ncbi.nlm.nih.gov/18778943/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,20227878,https://pubmed.ncbi.nlm.nih.gov/20227878/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,20444610,https://pubmed.ncbi.nlm.nih.gov/20444610/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,20674373,https://pubmed.ncbi.nlm.nih.gov/20674373/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,21377769,https://pubmed.ncbi.nlm.nih.gov/21377769/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,21392858,https://pubmed.ncbi.nlm.nih.gov/21392858/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,21420861,https://pubmed.ncbi.nlm.nih.gov/21420861/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,21473625,https://pubmed.ncbi.nlm.nih.gov/21473625/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,21568291,https://pubmed.ncbi.nlm.nih.gov/21568291/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,21726069,https://pubmed.ncbi.nlm.nih.gov/21726069/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,21764185,https://pubmed.ncbi.nlm.nih.gov/21764185/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,21775151,https://pubmed.ncbi.nlm.nih.gov/21775151/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,23228808,https://pubmed.ncbi.nlm.nih.gov/23228808/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,23265885,https://pubmed.ncbi.nlm.nih.gov/23265885/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,25232966,https://pubmed.ncbi.nlm.nih.gov/25232966/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,26023814,https://pubmed.ncbi.nlm.nih.gov/26023814/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,26367450,https://pubmed.ncbi.nlm.nih.gov/26367450/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,26785296,https://pubmed.ncbi.nlm.nih.gov/26785296/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,26820449,https://pubmed.ncbi.nlm.nih.gov/26820449/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,26988801,https://pubmed.ncbi.nlm.nih.gov/26988801/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,27876250,https://pubmed.ncbi.nlm.nih.gov/27876250/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,28131094,https://pubmed.ncbi.nlm.nih.gov/28131094/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,29144746,https://pubmed.ncbi.nlm.nih.gov/29144746/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,30126274,https://pubmed.ncbi.nlm.nih.gov/30126274/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,31727472,https://pubmed.ncbi.nlm.nih.gov/31727472/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,32018096,https://pubmed.ncbi.nlm.nih.gov/32018096/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,33626870,https://pubmed.ncbi.nlm.nih.gov/33626870/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,33682410,https://pubmed.ncbi.nlm.nih.gov/33682410/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,35930058,https://pubmed.ncbi.nlm.nih.gov/35930058/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,7568007,https://pubmed.ncbi.nlm.nih.gov/7568007/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,9089668,https://pubmed.ncbi.nlm.nih.gov/9089668/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,9435890,https://pubmed.ncbi.nlm.nih.gov/9435890/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,9618428,https://pubmed.ncbi.nlm.nih.gov/9618428/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,9618903,https://pubmed.ncbi.nlm.nih.gov/9618903/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,9647472,https://pubmed.ncbi.nlm.nih.gov/9647472/
+MTNR1A|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1A,Melatonin,BindingDB,9840420,https://pubmed.ncbi.nlm.nih.gov/9840420/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,GtoPdb,12764576,https://pubmed.ncbi.nlm.nih.gov/12764576/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,GtoPdb,2991499,https://pubmed.ncbi.nlm.nih.gov/2991499/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,GtoPdb,9089668,https://pubmed.ncbi.nlm.nih.gov/9089668/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,12061881,https://pubmed.ncbi.nlm.nih.gov/12061881/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,12213063,https://pubmed.ncbi.nlm.nih.gov/12213063/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,12646022,https://pubmed.ncbi.nlm.nih.gov/12646022/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,15380218,https://pubmed.ncbi.nlm.nih.gov/15380218/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,16759094,https://pubmed.ncbi.nlm.nih.gov/16759094/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,17149869,https://pubmed.ncbi.nlm.nih.gov/17149869/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,18052314,https://pubmed.ncbi.nlm.nih.gov/18052314/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,18372181,https://pubmed.ncbi.nlm.nih.gov/18372181/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,18657980,https://pubmed.ncbi.nlm.nih.gov/18657980/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,19473848,https://pubmed.ncbi.nlm.nih.gov/19473848/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,20227878,https://pubmed.ncbi.nlm.nih.gov/20227878/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,20674373,https://pubmed.ncbi.nlm.nih.gov/20674373/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,21420861,https://pubmed.ncbi.nlm.nih.gov/21420861/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,21568291,https://pubmed.ncbi.nlm.nih.gov/21568291/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,23265885,https://pubmed.ncbi.nlm.nih.gov/23265885/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,26023814,https://pubmed.ncbi.nlm.nih.gov/26023814/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,31727472,https://pubmed.ncbi.nlm.nih.gov/31727472/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,32018096,https://pubmed.ncbi.nlm.nih.gov/32018096/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,35930058,https://pubmed.ncbi.nlm.nih.gov/35930058/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,36150258,https://pubmed.ncbi.nlm.nih.gov/36150258/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,ChEMBL,36724633,https://pubmed.ncbi.nlm.nih.gov/36724633/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,10455277,https://pubmed.ncbi.nlm.nih.gov/10455277/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,10737738,https://pubmed.ncbi.nlm.nih.gov/10737738/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,11063602,https://pubmed.ncbi.nlm.nih.gov/11063602/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,11520198,https://pubmed.ncbi.nlm.nih.gov/11520198/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,11960497,https://pubmed.ncbi.nlm.nih.gov/11960497/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,12061881,https://pubmed.ncbi.nlm.nih.gov/12061881/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,12213063,https://pubmed.ncbi.nlm.nih.gov/12213063/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,12643943,https://pubmed.ncbi.nlm.nih.gov/12643943/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,12646022,https://pubmed.ncbi.nlm.nih.gov/12646022/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,12672242,https://pubmed.ncbi.nlm.nih.gov/12672242/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,14643330,https://pubmed.ncbi.nlm.nih.gov/14643330/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,14980664,https://pubmed.ncbi.nlm.nih.gov/14980664/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,15013015,https://pubmed.ncbi.nlm.nih.gov/15013015/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,15203165,https://pubmed.ncbi.nlm.nih.gov/15203165/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,15293992,https://pubmed.ncbi.nlm.nih.gov/15293992/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,15380218,https://pubmed.ncbi.nlm.nih.gov/15380218/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,15713384,https://pubmed.ncbi.nlm.nih.gov/15713384/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,15943478,https://pubmed.ncbi.nlm.nih.gov/15943478/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,16759094,https://pubmed.ncbi.nlm.nih.gov/16759094/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,17459711,https://pubmed.ncbi.nlm.nih.gov/17459711/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,17481904,https://pubmed.ncbi.nlm.nih.gov/17481904/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,18052314,https://pubmed.ncbi.nlm.nih.gov/18052314/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,18372181,https://pubmed.ncbi.nlm.nih.gov/18372181/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,18657980,https://pubmed.ncbi.nlm.nih.gov/18657980/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,18778943,https://pubmed.ncbi.nlm.nih.gov/18778943/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,20227878,https://pubmed.ncbi.nlm.nih.gov/20227878/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,20444610,https://pubmed.ncbi.nlm.nih.gov/20444610/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,20674373,https://pubmed.ncbi.nlm.nih.gov/20674373/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,21377769,https://pubmed.ncbi.nlm.nih.gov/21377769/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,21392858,https://pubmed.ncbi.nlm.nih.gov/21392858/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,21420861,https://pubmed.ncbi.nlm.nih.gov/21420861/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,21473625,https://pubmed.ncbi.nlm.nih.gov/21473625/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,21568291,https://pubmed.ncbi.nlm.nih.gov/21568291/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,21764185,https://pubmed.ncbi.nlm.nih.gov/21764185/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,21775151,https://pubmed.ncbi.nlm.nih.gov/21775151/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,23228808,https://pubmed.ncbi.nlm.nih.gov/23228808/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,23265885,https://pubmed.ncbi.nlm.nih.gov/23265885/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,25232966,https://pubmed.ncbi.nlm.nih.gov/25232966/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,26023814,https://pubmed.ncbi.nlm.nih.gov/26023814/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,26367450,https://pubmed.ncbi.nlm.nih.gov/26367450/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,26785296,https://pubmed.ncbi.nlm.nih.gov/26785296/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,26820449,https://pubmed.ncbi.nlm.nih.gov/26820449/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,28131094,https://pubmed.ncbi.nlm.nih.gov/28131094/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,30126274,https://pubmed.ncbi.nlm.nih.gov/30126274/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,31727472,https://pubmed.ncbi.nlm.nih.gov/31727472/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,32018096,https://pubmed.ncbi.nlm.nih.gov/32018096/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,33626870,https://pubmed.ncbi.nlm.nih.gov/33626870/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,33682410,https://pubmed.ncbi.nlm.nih.gov/33682410/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,35930058,https://pubmed.ncbi.nlm.nih.gov/35930058/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,7568007,https://pubmed.ncbi.nlm.nih.gov/7568007/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,7946354,https://pubmed.ncbi.nlm.nih.gov/7946354/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,9089668,https://pubmed.ncbi.nlm.nih.gov/9089668/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,9435890,https://pubmed.ncbi.nlm.nih.gov/9435890/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,9618428,https://pubmed.ncbi.nlm.nih.gov/9618428/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,9618903,https://pubmed.ncbi.nlm.nih.gov/9618903/
+MTNR1B|DRLFMBDRBRZALE-UHFFFAOYSA-N,MTNR1B,Melatonin,BindingDB,9840420,https://pubmed.ncbi.nlm.nih.gov/9840420/
+OXER1|DTSRZRUIWKDHMR-DHYYJNSCSA-N,OXER1,GtoPdb_6169_5-oxo-20-HETE,GtoPdb,8598482,https://pubmed.ncbi.nlm.nih.gov/8598482/
+OXER1|JNUUNUQHXIOFDA-JGKLHWIESA-N,OXER1,GtoPdb_2483_5S-HPETE,GtoPdb,16039985,https://pubmed.ncbi.nlm.nih.gov/16039985/
+OXER1|KGIJOOYOSFUGPC-JGKLHWIESA-N,OXER1,GtoPdb_3390_5S-HETE,GtoPdb,16039985,https://pubmed.ncbi.nlm.nih.gov/16039985/
+OXER1|KGIJOOYOSFUGPC-JGKLHWIESA-N,OXER1,GtoPdb_3390_5S-HETE,GtoPdb,7803484,https://pubmed.ncbi.nlm.nih.gov/7803484/
+OXER1|KGIJOOYOSFUGPC-JGKLHWIESA-N,OXER1,GtoPdb_3390_5S-HETE,GtoPdb,8387490,https://pubmed.ncbi.nlm.nih.gov/8387490/
+OXER1|MEASLHGILYBXFO-XTDASVJISA-N,OXER1,GtoPdb_3391_5-oxo-ETE,GtoPdb,1326548,https://pubmed.ncbi.nlm.nih.gov/1326548/
+OXER1|MEASLHGILYBXFO-XTDASVJISA-N,OXER1,GtoPdb_3391_5-oxo-ETE,GtoPdb,18292294,https://pubmed.ncbi.nlm.nih.gov/18292294/
+OXER1|MEASLHGILYBXFO-XTDASVJISA-N,OXER1,GtoPdb_3391_5-oxo-ETE,GtoPdb,19450703,https://pubmed.ncbi.nlm.nih.gov/19450703/
+OXER1|MEASLHGILYBXFO-XTDASVJISA-N,OXER1,GtoPdb_3391_5-oxo-ETE,GtoPdb,7797484,https://pubmed.ncbi.nlm.nih.gov/7797484/
+OXER1|MEASLHGILYBXFO-XTDASVJISA-N,OXER1,GtoPdb_3391_5-oxo-ETE,GtoPdb,9829988,https://pubmed.ncbi.nlm.nih.gov/9829988/
+OXER1|MEASLHGILYBXFO-XTDASVJISA-N,OXER1,GtoPdb_3391_5-oxo-ETE,ChEMBL,21316960,https://pubmed.ncbi.nlm.nih.gov/21316960/
+OXER1|MEASLHGILYBXFO-XTDASVJISA-N,OXER1,GtoPdb_3391_5-oxo-ETE,ChEMBL,21377873,https://pubmed.ncbi.nlm.nih.gov/21377873/
+OXER1|MEASLHGILYBXFO-XTDASVJISA-N,OXER1,GtoPdb_3391_5-oxo-ETE,ChEMBL,29866479,https://pubmed.ncbi.nlm.nih.gov/29866479/
+OXER1|MLZJFLKEKVDNAZ-XPKTZJOPSA-N,OXER1,GtoPdb_6171_5-oxo-12-HETE,GtoPdb,9920859,https://pubmed.ncbi.nlm.nih.gov/9920859/
+OXER1|MLZJFLKEKVDNAZ-XPKTZJOPSA-N,OXER1,GtoPdb_6171_5-oxo-12-HETE,ChEMBL,24351031,https://pubmed.ncbi.nlm.nih.gov/24351031/
+OXER1|RIUDRKHGFDAKPO-WWWYWCMOSA-N,OXER1,GtoPdb_6167_5-oxo-15-HETE,GtoPdb,7797484,https://pubmed.ncbi.nlm.nih.gov/7797484/
+OXER1|RIUDRKHGFDAKPO-WWWYWCMOSA-N,OXER1,GtoPdb_6167_5-oxo-15-HETE,GtoPdb,7803484,https://pubmed.ncbi.nlm.nih.gov/7803484/
+OXER1|RIUDRKHGFDAKPO-WWWYWCMOSA-N,OXER1,GtoPdb_6167_5-oxo-15-HETE,GtoPdb,8387490,https://pubmed.ncbi.nlm.nih.gov/8387490/
+OXER1|RIUDRKHGFDAKPO-WWWYWCMOSA-N,OXER1,GtoPdb_6167_5-oxo-15-HETE,GtoPdb,8598482,https://pubmed.ncbi.nlm.nih.gov/8598482/
+OXER1|RIUDRKHGFDAKPO-WWWYWCMOSA-N,OXER1,GtoPdb_6167_5-oxo-15-HETE,ChEMBL,21316960,https://pubmed.ncbi.nlm.nih.gov/21316960/
+OXER1|ULMVEQWNDGUUBR-IEQFDQMRSA-N,OXER1,GtoPdb_3392_5-oxo-C20:3,GtoPdb,18292294,https://pubmed.ncbi.nlm.nih.gov/18292294/
+OXER1|YVWMHFYOIJMUMN-HSINTONASA-N,OXER1,GtoPdb_6164_5-oxo-ODE,GtoPdb,18287092,https://pubmed.ncbi.nlm.nih.gov/18287092/
+OXGR1|KPGXRSRHYNQIFN-UHFFFAOYSA-N,OXGR1,GtoPdb_3636_α-ketoglutaric acid,GtoPdb,15141213,https://pubmed.ncbi.nlm.nih.gov/15141213/
+OXGR1|KPGXRSRHYNQIFN-UHFFFAOYSA-N,OXGR1,GtoPdb_3636_α-ketoglutaric acid,GtoPdb,23396314,https://pubmed.ncbi.nlm.nih.gov/23396314/
+P2RY1|XTWYTFMLZFPYCI-KQYNXXCUSA-N,P2RY1,Adenosine 5'-diphosphate,GtoPdb,12391289,https://pubmed.ncbi.nlm.nih.gov/12391289/
+P2RY1|XTWYTFMLZFPYCI-KQYNXXCUSA-N,P2RY1,Adenosine 5'-diphosphate,GtoPdb,9154346,https://pubmed.ncbi.nlm.nih.gov/9154346/
+P2RY1|XTWYTFMLZFPYCI-KQYNXXCUSA-N,P2RY1,Adenosine 5'-diphosphate,ChEMBL,23751098,https://pubmed.ncbi.nlm.nih.gov/23751098/
+P2RY1|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY1,GtoPdb_1713_ATP,GtoPdb,12391289,https://pubmed.ncbi.nlm.nih.gov/12391289/
+P2RY1|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY1,GtoPdb_1713_ATP,GtoPdb,9154346,https://pubmed.ncbi.nlm.nih.gov/9154346/
+P2RY1|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY1,GtoPdb_1713_ATP,GtoPdb,9547364,https://pubmed.ncbi.nlm.nih.gov/9547364/
+P2RY1|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY1,GtoPdb_1713_ATP,ChEMBL,11985476,https://pubmed.ncbi.nlm.nih.gov/11985476/
+P2RY1|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY1,GtoPdb_1713_ATP,ChEMBL,21090681,https://pubmed.ncbi.nlm.nih.gov/21090681/
+P2RY1|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY1,GtoPdb_1713_ATP,ChEMBL,23751098,https://pubmed.ncbi.nlm.nih.gov/23751098/
+P2RY10|DUYSYHSSBDVJSM-KRWOKUGFSA-N,P2RY10,Sphingosine-1-phosphate,GtoPdb,18466763,https://pubmed.ncbi.nlm.nih.gov/18466763/
+P2RY10|WRGQSWVCFNIUNZ-KTKRTIGZSA-N,P2RY10,GtoPdb_2906_LPA,GtoPdb,18466763,https://pubmed.ncbi.nlm.nih.gov/18466763/
+P2RY11|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY11,GtoPdb_1734_UTP,GtoPdb,12761346,https://pubmed.ncbi.nlm.nih.gov/12761346/
+P2RY11|XTWYTFMLZFPYCI-KQYNXXCUSA-N,P2RY11,Adenosine 5'-diphosphate,ChEMBL,23751098,https://pubmed.ncbi.nlm.nih.gov/23751098/
+P2RY11|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY11,GtoPdb_1713_ATP,GtoPdb,10578132,https://pubmed.ncbi.nlm.nih.gov/10578132/
+P2RY11|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY11,GtoPdb_1713_ATP,GtoPdb,12213051,https://pubmed.ncbi.nlm.nih.gov/12213051/
+P2RY11|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY11,GtoPdb_1713_ATP,GtoPdb,12761346,https://pubmed.ncbi.nlm.nih.gov/12761346/
+P2RY11|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY11,GtoPdb_1713_ATP,ChEMBL,21090681,https://pubmed.ncbi.nlm.nih.gov/21090681/
+P2RY11|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY11,GtoPdb_1713_ATP,ChEMBL,23751098,https://pubmed.ncbi.nlm.nih.gov/23751098/
+P2RY12|XTWYTFMLZFPYCI-KQYNXXCUSA-N,P2RY12,Adenosine 5'-diphosphate,GtoPdb,11196645,https://pubmed.ncbi.nlm.nih.gov/11196645/
+P2RY13|XTWYTFMLZFPYCI-KQYNXXCUSA-N,P2RY13,Adenosine 5'-diphosphate,GtoPdb,12815166,https://pubmed.ncbi.nlm.nih.gov/12815166/
+P2RY13|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY13,GtoPdb_1713_ATP,GtoPdb,12815166,https://pubmed.ncbi.nlm.nih.gov/12815166/
+P2RY14|HDYANYHVCAPMJV-LXQIFKJMSA-N,P2RY14,GtoPdb_1784_UDP-glucuronic acid,ChEMBL,17407275,https://pubmed.ncbi.nlm.nih.gov/17407275/
+P2RY14|HSCJRCZFDFQWRP-ABVWGUQPSA-N,P2RY14,GtoPdb_1782_UDP-galactose,GtoPdb,10753868,https://pubmed.ncbi.nlm.nih.gov/10753868/
+P2RY14|HSCJRCZFDFQWRP-ABVWGUQPSA-N,P2RY14,GtoPdb_1782_UDP-galactose,ChEMBL,17407275,https://pubmed.ncbi.nlm.nih.gov/17407275/
+P2RY14|HSCJRCZFDFQWRP-JZMIEXBBSA-N,P2RY14,GtoPdb_1783_UDP-glucose,GtoPdb,19339661,https://pubmed.ncbi.nlm.nih.gov/19339661/
+P2RY14|HSCJRCZFDFQWRP-JZMIEXBBSA-N,P2RY14,GtoPdb_1783_UDP-glucose,ChEMBL,17088057,https://pubmed.ncbi.nlm.nih.gov/17088057/
+P2RY14|HSCJRCZFDFQWRP-JZMIEXBBSA-N,P2RY14,GtoPdb_1783_UDP-glucose,ChEMBL,19502066,https://pubmed.ncbi.nlm.nih.gov/19502066/
+P2RY14|HSCJRCZFDFQWRP-JZMIEXBBSA-N,P2RY14,GtoPdb_1783_UDP-glucose,ChEMBL,19902968,https://pubmed.ncbi.nlm.nih.gov/19902968/
+P2RY14|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY14,GtoPdb_1749_UDP,GtoPdb,19759354,https://pubmed.ncbi.nlm.nih.gov/19759354/
+P2RY14|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY14,GtoPdb_1749_UDP,ChEMBL,19902968,https://pubmed.ncbi.nlm.nih.gov/19902968/
+P2RY14|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY14,GtoPdb_1749_UDP,ChEMBL,27413802,https://pubmed.ncbi.nlm.nih.gov/27413802/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,GtoPdb,11754592,https://pubmed.ncbi.nlm.nih.gov/11754592/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,GtoPdb,8564228,https://pubmed.ncbi.nlm.nih.gov/8564228/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,16539385,https://pubmed.ncbi.nlm.nih.gov/16539385/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,17011188,https://pubmed.ncbi.nlm.nih.gov/17011188/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,17125260,https://pubmed.ncbi.nlm.nih.gov/17125260/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,17302398,https://pubmed.ncbi.nlm.nih.gov/17302398/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,17941622,https://pubmed.ncbi.nlm.nih.gov/17941622/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,18514530,https://pubmed.ncbi.nlm.nih.gov/18514530/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,18760862,https://pubmed.ncbi.nlm.nih.gov/18760862/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,19419204,https://pubmed.ncbi.nlm.nih.gov/19419204/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,20095577,https://pubmed.ncbi.nlm.nih.gov/20095577/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,21417463,https://pubmed.ncbi.nlm.nih.gov/21417463/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,21528910,https://pubmed.ncbi.nlm.nih.gov/21528910/
+P2RY2|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY2,GtoPdb_1734_UTP,ChEMBL,22386981,https://pubmed.ncbi.nlm.nih.gov/22386981/
+P2RY2|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY2,GtoPdb_1713_ATP,GtoPdb,11754592,https://pubmed.ncbi.nlm.nih.gov/11754592/
+P2RY2|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY2,GtoPdb_1713_ATP,GtoPdb,12213051,https://pubmed.ncbi.nlm.nih.gov/12213051/
+P2RY2|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY2,GtoPdb_1713_ATP,GtoPdb,8564228,https://pubmed.ncbi.nlm.nih.gov/8564228/
+P2RY2|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY2,GtoPdb_1713_ATP,ChEMBL,19419204,https://pubmed.ncbi.nlm.nih.gov/19419204/
+P2RY2|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY2,GtoPdb_1713_ATP,ChEMBL,29254895,https://pubmed.ncbi.nlm.nih.gov/29254895/
+P2RY4|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY4,GtoPdb_1734_UTP,GtoPdb,10779375,https://pubmed.ncbi.nlm.nih.gov/10779375/
+P2RY4|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY4,GtoPdb_1734_UTP,ChEMBL,17079144,https://pubmed.ncbi.nlm.nih.gov/17079144/
+P2RY4|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY4,GtoPdb_1734_UTP,ChEMBL,17125260,https://pubmed.ncbi.nlm.nih.gov/17125260/
+P2RY4|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY4,GtoPdb_1734_UTP,ChEMBL,17302398,https://pubmed.ncbi.nlm.nih.gov/17302398/
+P2RY4|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY4,GtoPdb_1734_UTP,ChEMBL,18760862,https://pubmed.ncbi.nlm.nih.gov/18760862/
+P2RY4|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY4,GtoPdb_1734_UTP,ChEMBL,21528910,https://pubmed.ncbi.nlm.nih.gov/21528910/
+P2RY4|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY4,GtoPdb_1734_UTP,ChEMBL,22901672,https://pubmed.ncbi.nlm.nih.gov/22901672/
+P2RY4|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY4,GtoPdb_1734_UTP,ChEMBL,27413802,https://pubmed.ncbi.nlm.nih.gov/27413802/
+P2RY4|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY4,GtoPdb_1713_ATP,GtoPdb,12213051,https://pubmed.ncbi.nlm.nih.gov/12213051/
+P2RY4|ZKHQWZAMYRWXGA-KQYNXXCUSA-N,P2RY4,GtoPdb_1713_ATP,ChEMBL,27413802,https://pubmed.ncbi.nlm.nih.gov/27413802/
+P2RY6|PGAVKCOVUIYSFO-XVFCMESISA-N,P2RY6,GtoPdb_1734_UTP,ChEMBL,17011188,https://pubmed.ncbi.nlm.nih.gov/17011188/
+P2RY6|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY6,GtoPdb_1749_UDP,GtoPdb,8670200,https://pubmed.ncbi.nlm.nih.gov/8670200/
+P2RY6|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY6,GtoPdb_1749_UDP,ChEMBL,16366591,https://pubmed.ncbi.nlm.nih.gov/16366591/
+P2RY6|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY6,GtoPdb_1749_UDP,ChEMBL,16942026,https://pubmed.ncbi.nlm.nih.gov/16942026/
+P2RY6|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY6,GtoPdb_1749_UDP,ChEMBL,17125260,https://pubmed.ncbi.nlm.nih.gov/17125260/
+P2RY6|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY6,GtoPdb_1749_UDP,ChEMBL,19902968,https://pubmed.ncbi.nlm.nih.gov/19902968/
+P2RY6|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY6,GtoPdb_1749_UDP,ChEMBL,20095577,https://pubmed.ncbi.nlm.nih.gov/20095577/
+P2RY6|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY6,GtoPdb_1749_UDP,ChEMBL,21417463,https://pubmed.ncbi.nlm.nih.gov/21417463/
+P2RY6|XCCTYIAWTASOJW-XVFCMESISA-N,P2RY6,GtoPdb_1749_UDP,ChEMBL,22901672,https://pubmed.ncbi.nlm.nih.gov/22901672/
+P2RY6|XTWYTFMLZFPYCI-KQYNXXCUSA-N,P2RY6,Adenosine 5'-diphosphate,ChEMBL,16942026,https://pubmed.ncbi.nlm.nih.gov/16942026/
+PTAFR|HVAUUPRFYPCOCA-AREMUKBSSA-N,PTAFR,GtoPdb_1831_PAF,GtoPdb,1657923,https://pubmed.ncbi.nlm.nih.gov/1657923/
+PTAFR|HVAUUPRFYPCOCA-AREMUKBSSA-N,PTAFR,GtoPdb_1831_PAF,GtoPdb,7594622,https://pubmed.ncbi.nlm.nih.gov/7594622/
+PTAFR|HVAUUPRFYPCOCA-AREMUKBSSA-N,PTAFR,GtoPdb_1831_PAF,GtoPdb,8798529,https://pubmed.ncbi.nlm.nih.gov/8798529/
+PTAFR|HVAUUPRFYPCOCA-AREMUKBSSA-N,PTAFR,GtoPdb_1831_PAF,ChEMBL,23403082,https://pubmed.ncbi.nlm.nih.gov/23403082/
+PTGDR|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGDR,Prostaglandin D2,GtoPdb,10448933,https://pubmed.ncbi.nlm.nih.gov/10448933/
+PTGDR|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGDR,Prostaglandin D2,GtoPdb,16604093,https://pubmed.ncbi.nlm.nih.gov/16604093/
+PTGDR|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGDR,Prostaglandin D2,GtoPdb,7642548,https://pubmed.ncbi.nlm.nih.gov/7642548/
+PTGDR|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGDR,Prostaglandin D2,GtoPdb,9579725,https://pubmed.ncbi.nlm.nih.gov/9579725/
+PTGDR|GMVPRGQOIOIIMI-DWKJAMRDSA-N,PTGDR,GtoPdb_1882_PGE1,GtoPdb,9579725,https://pubmed.ncbi.nlm.nih.gov/9579725/
+PTGDR|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGDR,Dinoprost,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGDR|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGDR,Dinoprost,GtoPdb,9579725,https://pubmed.ncbi.nlm.nih.gov/9579725/
+PTGDR|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGDR,Dinoprost,ChEMBL,10715159,https://pubmed.ncbi.nlm.nih.gov/10715159/
+PTGDR|UQOQENZZLBSFKO-POPPZSFYSA-N,PTGDR,Prostaglandin J2,GtoPdb,9579725,https://pubmed.ncbi.nlm.nih.gov/9579725/
+PTGDR|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGDR,Prostaglandin E2,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGDR|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGDR,Prostaglandin E2,GtoPdb,7642548,https://pubmed.ncbi.nlm.nih.gov/7642548/
+PTGDR|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGDR,Prostaglandin E2,GtoPdb,9579725,https://pubmed.ncbi.nlm.nih.gov/9579725/
+PTGDR2|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGDR2,Prostaglandin D2,GtoPdb,12466225,https://pubmed.ncbi.nlm.nih.gov/12466225/
+PTGDR2|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGDR2,Prostaglandin D2,GtoPdb,16256979,https://pubmed.ncbi.nlm.nih.gov/16256979/
+PTGDR2|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGDR2,Dinoprost,GtoPdb,12466225,https://pubmed.ncbi.nlm.nih.gov/12466225/
+PTGDR2|UQOQENZZLBSFKO-POPPZSFYSA-N,PTGDR2,Prostaglandin J2,GtoPdb,12466225,https://pubmed.ncbi.nlm.nih.gov/12466225/
+PTGDR2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGDR2,Prostaglandin E2,GtoPdb,12466225,https://pubmed.ncbi.nlm.nih.gov/12466225/
+PTGER1|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGER1,Prostaglandin D2,GtoPdb,11999132,https://pubmed.ncbi.nlm.nih.gov/11999132/
+PTGER1|GMVPRGQOIOIIMI-DWKJAMRDSA-N,PTGER1,GtoPdb_1882_PGE1,GtoPdb,11999132,https://pubmed.ncbi.nlm.nih.gov/11999132/
+PTGER1|KAQKFAOMNZTLHT-OZUDYXHBSA-N,PTGER1,GtoPdb_1915_PGI2,GtoPdb,11999132,https://pubmed.ncbi.nlm.nih.gov/11999132/
+PTGER1|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER1,Dinoprost,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGER1|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER1,Dinoprost,GtoPdb,11999132,https://pubmed.ncbi.nlm.nih.gov/11999132/
+PTGER1|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER1,Dinoprost,ChEMBL,10715159,https://pubmed.ncbi.nlm.nih.gov/10715159/
+PTGER1|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER1,Prostaglandin E2,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGER1|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER1,Prostaglandin E2,ChEMBL,17531488,https://pubmed.ncbi.nlm.nih.gov/17531488/
+PTGER1|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER1,Prostaglandin E2,ChEMBL,26985320,https://pubmed.ncbi.nlm.nih.gov/26985320/
+PTGER2|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGER2,Prostaglandin D2,GtoPdb,10462542,https://pubmed.ncbi.nlm.nih.gov/10462542/
+PTGER2|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER2,Dinoprost,GtoPdb,10462542,https://pubmed.ncbi.nlm.nih.gov/10462542/
+PTGER2|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER2,Dinoprost,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,GtoPdb,10462542,https://pubmed.ncbi.nlm.nih.gov/10462542/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,GtoPdb,16604093,https://pubmed.ncbi.nlm.nih.gov/16604093/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,ChEMBL,17531488,https://pubmed.ncbi.nlm.nih.gov/17531488/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,ChEMBL,21595651,https://pubmed.ncbi.nlm.nih.gov/21595651/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,ChEMBL,23466604,https://pubmed.ncbi.nlm.nih.gov/23466604/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,ChEMBL,26985320,https://pubmed.ncbi.nlm.nih.gov/26985320/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,ChEMBL,26988801,https://pubmed.ncbi.nlm.nih.gov/26988801/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,ChEMBL,29995405,https://pubmed.ncbi.nlm.nih.gov/29995405/
+PTGER2|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER2,Prostaglandin E2,ChEMBL,30964292,https://pubmed.ncbi.nlm.nih.gov/30964292/
+PTGER3|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER3,Dinoprost,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGER3|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER3,Dinoprost,ChEMBL,10715159,https://pubmed.ncbi.nlm.nih.gov/10715159/
+PTGER3|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER3,Prostaglandin E2,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGER3|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER3,Prostaglandin E2,GtoPdb,16604093,https://pubmed.ncbi.nlm.nih.gov/16604093/
+PTGER3|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER3,Prostaglandin E2,GtoPdb,18632791,https://pubmed.ncbi.nlm.nih.gov/18632791/
+PTGER3|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER3,Prostaglandin E2,GtoPdb,22480736,https://pubmed.ncbi.nlm.nih.gov/22480736/
+PTGER3|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER3,Prostaglandin E2,ChEMBL,17531488,https://pubmed.ncbi.nlm.nih.gov/17531488/
+PTGER3|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER3,Prostaglandin E2,ChEMBL,26985320,https://pubmed.ncbi.nlm.nih.gov/26985320/
+PTGER3|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER3,Prostaglandin E2,ChEMBL,30964292,https://pubmed.ncbi.nlm.nih.gov/30964292/
+PTGER4|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGER4,Prostaglandin D2,GtoPdb,10462542,https://pubmed.ncbi.nlm.nih.gov/10462542/
+PTGER4|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGER4,Prostaglandin D2,GtoPdb,10952683,https://pubmed.ncbi.nlm.nih.gov/10952683/
+PTGER4|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGER4,Prostaglandin D2,GtoPdb,19584306,https://pubmed.ncbi.nlm.nih.gov/19584306/
+PTGER4|GMVPRGQOIOIIMI-DWKJAMRDSA-N,PTGER4,GtoPdb_1882_PGE1,GtoPdb,10952683,https://pubmed.ncbi.nlm.nih.gov/10952683/
+PTGER4|GMVPRGQOIOIIMI-DWKJAMRDSA-N,PTGER4,GtoPdb_1882_PGE1,GtoPdb,19584306,https://pubmed.ncbi.nlm.nih.gov/19584306/
+PTGER4|KAQKFAOMNZTLHT-OZUDYXHBSA-N,PTGER4,GtoPdb_1915_PGI2,GtoPdb,10952683,https://pubmed.ncbi.nlm.nih.gov/10952683/
+PTGER4|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER4,Dinoprost,GtoPdb,10462542,https://pubmed.ncbi.nlm.nih.gov/10462542/
+PTGER4|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER4,Dinoprost,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGER4|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER4,Dinoprost,GtoPdb,10952683,https://pubmed.ncbi.nlm.nih.gov/10952683/
+PTGER4|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER4,Dinoprost,GtoPdb,19584306,https://pubmed.ncbi.nlm.nih.gov/19584306/
+PTGER4|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGER4,Dinoprost,ChEMBL,10715159,https://pubmed.ncbi.nlm.nih.gov/10715159/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,GtoPdb,10462542,https://pubmed.ncbi.nlm.nih.gov/10462542/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,GtoPdb,10952683,https://pubmed.ncbi.nlm.nih.gov/10952683/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,GtoPdb,16604093,https://pubmed.ncbi.nlm.nih.gov/16604093/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,GtoPdb,17495127,https://pubmed.ncbi.nlm.nih.gov/17495127/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,GtoPdb,19584306,https://pubmed.ncbi.nlm.nih.gov/19584306/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,ChEMBL,17531488,https://pubmed.ncbi.nlm.nih.gov/17531488/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,ChEMBL,18983139,https://pubmed.ncbi.nlm.nih.gov/18983139/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,ChEMBL,23403082,https://pubmed.ncbi.nlm.nih.gov/23403082/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,ChEMBL,23466604,https://pubmed.ncbi.nlm.nih.gov/23466604/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,ChEMBL,26985320,https://pubmed.ncbi.nlm.nih.gov/26985320/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,ChEMBL,27876250,https://pubmed.ncbi.nlm.nih.gov/27876250/
+PTGER4|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGER4,Prostaglandin E2,ChEMBL,30964292,https://pubmed.ncbi.nlm.nih.gov/30964292/
+PTGFR|BHMBVRSPMRCCGG-OUTUXVNYSA-N,PTGFR,Prostaglandin D2,GtoPdb,12519077,https://pubmed.ncbi.nlm.nih.gov/12519077/
+PTGFR|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGFR,Dinoprost,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGFR|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGFR,Dinoprost,GtoPdb,12519077,https://pubmed.ncbi.nlm.nih.gov/12519077/
+PTGFR|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGFR,Dinoprost,GtoPdb,16604093,https://pubmed.ncbi.nlm.nih.gov/16604093/
+PTGFR|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGFR,Dinoprost,ChEMBL,10715159,https://pubmed.ncbi.nlm.nih.gov/10715159/
+PTGFR|PXGPLTODNUVGFL-YNNPMVKQSA-N,PTGFR,Dinoprost,ChEMBL,10915040,https://pubmed.ncbi.nlm.nih.gov/10915040/
+PTGFR|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGFR,Prostaglandin E2,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+PTGFR|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGFR,Prostaglandin E2,GtoPdb,12519077,https://pubmed.ncbi.nlm.nih.gov/12519077/
+PTGFR|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGFR,Prostaglandin E2,ChEMBL,26985320,https://pubmed.ncbi.nlm.nih.gov/26985320/
+PTGIR|GMVPRGQOIOIIMI-DWKJAMRDSA-N,PTGIR,GtoPdb_1882_PGE1,GtoPdb,11454473,https://pubmed.ncbi.nlm.nih.gov/11454473/
+PTGIR|GMVPRGQOIOIIMI-DWKJAMRDSA-N,PTGIR,GtoPdb_1882_PGE1,GtoPdb,17704830,https://pubmed.ncbi.nlm.nih.gov/17704830/
+PTGIR|KAQKFAOMNZTLHT-OZUDYXHBSA-N,PTGIR,GtoPdb_1915_PGI2,GtoPdb,372237,https://pubmed.ncbi.nlm.nih.gov/372237/
+PTGIR|XEYBRNLFEZDVAW-ARSRFYASSA-N,PTGIR,Prostaglandin E2,ChEMBL,26985320,https://pubmed.ncbi.nlm.nih.gov/26985320/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,GtoPdb,11705398,https://pubmed.ncbi.nlm.nih.gov/11705398/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,GtoPdb,11967257,https://pubmed.ncbi.nlm.nih.gov/11967257/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,GtoPdb,14732717,https://pubmed.ncbi.nlm.nih.gov/14732717/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,GtoPdb,17114004,https://pubmed.ncbi.nlm.nih.gov/17114004/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,GtoPdb,31805144,https://pubmed.ncbi.nlm.nih.gov/31805144/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,GtoPdb,9765227,https://pubmed.ncbi.nlm.nih.gov/9765227/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,15149705,https://pubmed.ncbi.nlm.nih.gov/15149705/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,15341948,https://pubmed.ncbi.nlm.nih.gov/15341948/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,15615513,https://pubmed.ncbi.nlm.nih.gov/15615513/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,17070046,https://pubmed.ncbi.nlm.nih.gov/17070046/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,19081720,https://pubmed.ncbi.nlm.nih.gov/19081720/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,20188554,https://pubmed.ncbi.nlm.nih.gov/20188554/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,20304639,https://pubmed.ncbi.nlm.nih.gov/20304639/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,20446681,https://pubmed.ncbi.nlm.nih.gov/20446681/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,22104144,https://pubmed.ncbi.nlm.nih.gov/22104144/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,24900589,https://pubmed.ncbi.nlm.nih.gov/24900589/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,25516790,https://pubmed.ncbi.nlm.nih.gov/25516790/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,26687487,https://pubmed.ncbi.nlm.nih.gov/26687487/
+S1PR1|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR1,Sphingosine-1-phosphate,ChEMBL,29249563,https://pubmed.ncbi.nlm.nih.gov/29249563/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,GtoPdb,10446161,https://pubmed.ncbi.nlm.nih.gov/10446161/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,GtoPdb,11705398,https://pubmed.ncbi.nlm.nih.gov/11705398/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,GtoPdb,17114004,https://pubmed.ncbi.nlm.nih.gov/17114004/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,GtoPdb,9988698,https://pubmed.ncbi.nlm.nih.gov/9988698/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,ChEMBL,15149705,https://pubmed.ncbi.nlm.nih.gov/15149705/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,ChEMBL,15341948,https://pubmed.ncbi.nlm.nih.gov/15341948/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,ChEMBL,15615513,https://pubmed.ncbi.nlm.nih.gov/15615513/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,ChEMBL,20446681,https://pubmed.ncbi.nlm.nih.gov/20446681/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,ChEMBL,24900589,https://pubmed.ncbi.nlm.nih.gov/24900589/
+S1PR2|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR2,Sphingosine-1-phosphate,ChEMBL,29249563,https://pubmed.ncbi.nlm.nih.gov/29249563/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,GtoPdb,10446161,https://pubmed.ncbi.nlm.nih.gov/10446161/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,GtoPdb,11705398,https://pubmed.ncbi.nlm.nih.gov/11705398/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,GtoPdb,11967257,https://pubmed.ncbi.nlm.nih.gov/11967257/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,GtoPdb,17114004,https://pubmed.ncbi.nlm.nih.gov/17114004/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,GtoPdb,17170199,https://pubmed.ncbi.nlm.nih.gov/17170199/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,GtoPdb,9988698,https://pubmed.ncbi.nlm.nih.gov/9988698/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,15149705,https://pubmed.ncbi.nlm.nih.gov/15149705/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,15341948,https://pubmed.ncbi.nlm.nih.gov/15341948/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,15615513,https://pubmed.ncbi.nlm.nih.gov/15615513/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,17070046,https://pubmed.ncbi.nlm.nih.gov/17070046/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,19081720,https://pubmed.ncbi.nlm.nih.gov/19081720/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,20188554,https://pubmed.ncbi.nlm.nih.gov/20188554/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,20304639,https://pubmed.ncbi.nlm.nih.gov/20304639/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,20446681,https://pubmed.ncbi.nlm.nih.gov/20446681/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,24900589,https://pubmed.ncbi.nlm.nih.gov/24900589/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,26687487,https://pubmed.ncbi.nlm.nih.gov/26687487/
+S1PR3|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR3,Sphingosine-1-phosphate,ChEMBL,29249563,https://pubmed.ncbi.nlm.nih.gov/29249563/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,GtoPdb,11967257,https://pubmed.ncbi.nlm.nih.gov/11967257/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,GtoPdb,12270137,https://pubmed.ncbi.nlm.nih.gov/12270137/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,GtoPdb,14732717,https://pubmed.ncbi.nlm.nih.gov/14732717/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,GtoPdb,17114004,https://pubmed.ncbi.nlm.nih.gov/17114004/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,ChEMBL,15149705,https://pubmed.ncbi.nlm.nih.gov/15149705/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,ChEMBL,15341948,https://pubmed.ncbi.nlm.nih.gov/15341948/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,ChEMBL,15615513,https://pubmed.ncbi.nlm.nih.gov/15615513/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,ChEMBL,17070046,https://pubmed.ncbi.nlm.nih.gov/17070046/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,ChEMBL,19081720,https://pubmed.ncbi.nlm.nih.gov/19081720/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,ChEMBL,20304639,https://pubmed.ncbi.nlm.nih.gov/20304639/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,ChEMBL,20446681,https://pubmed.ncbi.nlm.nih.gov/20446681/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,ChEMBL,24900589,https://pubmed.ncbi.nlm.nih.gov/24900589/
+S1PR4|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR4,Sphingosine-1-phosphate,ChEMBL,29249563,https://pubmed.ncbi.nlm.nih.gov/29249563/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,GtoPdb,11705398,https://pubmed.ncbi.nlm.nih.gov/11705398/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,GtoPdb,11967257,https://pubmed.ncbi.nlm.nih.gov/11967257/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,GtoPdb,14732717,https://pubmed.ncbi.nlm.nih.gov/14732717/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,GtoPdb,17114004,https://pubmed.ncbi.nlm.nih.gov/17114004/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,ChEMBL,15341948,https://pubmed.ncbi.nlm.nih.gov/15341948/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,ChEMBL,15615513,https://pubmed.ncbi.nlm.nih.gov/15615513/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,ChEMBL,17070046,https://pubmed.ncbi.nlm.nih.gov/17070046/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,ChEMBL,19081720,https://pubmed.ncbi.nlm.nih.gov/19081720/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,ChEMBL,20304639,https://pubmed.ncbi.nlm.nih.gov/20304639/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,ChEMBL,20446681,https://pubmed.ncbi.nlm.nih.gov/20446681/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,ChEMBL,24900589,https://pubmed.ncbi.nlm.nih.gov/24900589/
+S1PR5|DUYSYHSSBDVJSM-KRWOKUGFSA-N,S1PR5,Sphingosine-1-phosphate,ChEMBL,29249563,https://pubmed.ncbi.nlm.nih.gov/29249563/
+SUCNR1|KDYFGRWQOYBRFD-UHFFFAOYSA-N,SUCNR1,Succinic acid,GtoPdb,15141213,https://pubmed.ncbi.nlm.nih.gov/15141213/
+SUCNR1|KDYFGRWQOYBRFD-UHFFFAOYSA-N,SUCNR1,Succinic acid,GtoPdb,23396314,https://pubmed.ncbi.nlm.nih.gov/23396314/
+SUCNR1|KDYFGRWQOYBRFD-UHFFFAOYSA-N,SUCNR1,Succinic acid,ChEMBL,37318348,https://pubmed.ncbi.nlm.nih.gov/37318348/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,GtoPdb,11459929,https://pubmed.ncbi.nlm.nih.gov/11459929/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,GtoPdb,17038507,https://pubmed.ncbi.nlm.nih.gov/17038507/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,GtoPdb,18524885,https://pubmed.ncbi.nlm.nih.gov/18524885/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,GtoPdb,18602830,https://pubmed.ncbi.nlm.nih.gov/18602830/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,GtoPdb,19725810,https://pubmed.ncbi.nlm.nih.gov/19725810/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,GtoPdb,22073124,https://pubmed.ncbi.nlm.nih.gov/22073124/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,ChEMBL,18602830,https://pubmed.ncbi.nlm.nih.gov/18602830/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,ChEMBL,22037049,https://pubmed.ncbi.nlm.nih.gov/22037049/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,ChEMBL,35047111,https://pubmed.ncbi.nlm.nih.gov/35047111/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,BindingDB,18602830,https://pubmed.ncbi.nlm.nih.gov/18602830/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,BindingDB,22037049,https://pubmed.ncbi.nlm.nih.gov/22037049/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,BindingDB,29407948,https://pubmed.ncbi.nlm.nih.gov/29407948/
+TAAR1|BHHGXPLMPWCGHP-UHFFFAOYSA-N,TAAR1,2-Phenylethylamine,BindingDB,35047111,https://pubmed.ncbi.nlm.nih.gov/35047111/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,GtoPdb,11459929,https://pubmed.ncbi.nlm.nih.gov/11459929/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,GtoPdb,17038507,https://pubmed.ncbi.nlm.nih.gov/17038507/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,GtoPdb,18524885,https://pubmed.ncbi.nlm.nih.gov/18524885/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,GtoPdb,19725810,https://pubmed.ncbi.nlm.nih.gov/19725810/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,GtoPdb,19892733,https://pubmed.ncbi.nlm.nih.gov/19892733/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,GtoPdb,22073124,https://pubmed.ncbi.nlm.nih.gov/22073124/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,ChEMBL,18602830,https://pubmed.ncbi.nlm.nih.gov/18602830/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,ChEMBL,34264089,https://pubmed.ncbi.nlm.nih.gov/34264089/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,ChEMBL,35047111,https://pubmed.ncbi.nlm.nih.gov/35047111/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,ChEMBL,40159850,https://pubmed.ncbi.nlm.nih.gov/40159850/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,BindingDB,11459929,https://pubmed.ncbi.nlm.nih.gov/11459929/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,BindingDB,18602830,https://pubmed.ncbi.nlm.nih.gov/18602830/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,BindingDB,34264089,https://pubmed.ncbi.nlm.nih.gov/34264089/
+TAAR1|DZGWFCGJZKJUFP-UHFFFAOYSA-N,TAAR1,Tyramine,BindingDB,35047111,https://pubmed.ncbi.nlm.nih.gov/35047111/
+TAAR1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,TAAR1,GtoPdb_940_dopamine,ChEMBL,35047111,https://pubmed.ncbi.nlm.nih.gov/35047111/
+TAAR1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,TAAR1,GtoPdb_940_dopamine,BindingDB,11459929,https://pubmed.ncbi.nlm.nih.gov/11459929/
+TAAR1|VYFYYTLLBUKUHU-UHFFFAOYSA-N,TAAR1,GtoPdb_940_dopamine,BindingDB,35047111,https://pubmed.ncbi.nlm.nih.gov/35047111/
+TBXA2R|PXGPLTODNUVGFL-YNNPMVKQSA-N,TBXA2R,Dinoprost,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+TBXA2R|XEYBRNLFEZDVAW-ARSRFYASSA-N,TBXA2R,Prostaglandin E2,GtoPdb,10634944,https://pubmed.ncbi.nlm.nih.gov/10634944/
+AR|MUMGGOZAMZWBJJ-DYKIIFRCSA-N,AR,Testosterone,ChEMBL,15456242,https://pubmed.ncbi.nlm.nih.gov/15456242/
+AR|MUMGGOZAMZWBJJ-DYKIIFRCSA-N,AR,Testosterone,ChEMBL,16309907,https://pubmed.ncbi.nlm.nih.gov/16309907/
+AR|MUMGGOZAMZWBJJ-DYKIIFRCSA-N,AR,Testosterone,ChEMBL,19856921,https://pubmed.ncbi.nlm.nih.gov/19856921/
+AR|MUMGGOZAMZWBJJ-DYKIIFRCSA-N,AR,Testosterone,ChEMBL,22746350,https://pubmed.ncbi.nlm.nih.gov/22746350/
+AR|MUMGGOZAMZWBJJ-DYKIIFRCSA-N,AR,Testosterone,ChEMBL,25646649,https://pubmed.ncbi.nlm.nih.gov/25646649/
+AR|MUMGGOZAMZWBJJ-DYKIIFRCSA-N,AR,Testosterone,ChEMBL,35786895,https://pubmed.ncbi.nlm.nih.gov/35786895/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,GtoPdb,2911578,https://pubmed.ncbi.nlm.nih.gov/2911578/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,17034117,https://pubmed.ncbi.nlm.nih.gov/17034117/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,17149866,https://pubmed.ncbi.nlm.nih.gov/17149866/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,17181141,https://pubmed.ncbi.nlm.nih.gov/17181141/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,17439112,https://pubmed.ncbi.nlm.nih.gov/17439112/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,18400499,https://pubmed.ncbi.nlm.nih.gov/18400499/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,18442912,https://pubmed.ncbi.nlm.nih.gov/18442912/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,19606870,https://pubmed.ncbi.nlm.nih.gov/19606870/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,20510622,https://pubmed.ncbi.nlm.nih.gov/20510622/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,22094279,https://pubmed.ncbi.nlm.nih.gov/22094279/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,25121964,https://pubmed.ncbi.nlm.nih.gov/25121964/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,25305688,https://pubmed.ncbi.nlm.nih.gov/25305688/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,28454849,https://pubmed.ncbi.nlm.nih.gov/28454849/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,35786895,https://pubmed.ncbi.nlm.nih.gov/35786895/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,9871534,https://pubmed.ncbi.nlm.nih.gov/9871534/
+AR|NVKAWKQGWWIWPM-ABEVXSGRSA-N,AR,GtoPdb_2856_dihydrotestosterone,ChEMBL,9925725,https://pubmed.ncbi.nlm.nih.gov/9925725/
+ESR2|DNXHEGUUPJUMQT-CBZIJGRNSA-N,ESR2,Estrone,GtoPdb,9048584,https://pubmed.ncbi.nlm.nih.gov/9048584/
+ESR2|DNXHEGUUPJUMQT-CBZIJGRNSA-N,ESR2,Estrone,ChEMBL,16610787,https://pubmed.ncbi.nlm.nih.gov/16610787/
+ESR2|DNXHEGUUPJUMQT-CBZIJGRNSA-N,ESR2,Estrone,ChEMBL,19824648,https://pubmed.ncbi.nlm.nih.gov/19824648/
+ESR2|DNXHEGUUPJUMQT-CBZIJGRNSA-N,ESR2,Estrone,ChEMBL,32912438,https://pubmed.ncbi.nlm.nih.gov/32912438/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,GtoPdb,9048584,https://pubmed.ncbi.nlm.nih.gov/9048584/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,10673099,https://pubmed.ncbi.nlm.nih.gov/10673099/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,11906280,https://pubmed.ncbi.nlm.nih.gov/11906280/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,12459017,https://pubmed.ncbi.nlm.nih.gov/12459017/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,12749898,https://pubmed.ncbi.nlm.nih.gov/12749898/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,12954056,https://pubmed.ncbi.nlm.nih.gov/12954056/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,15203156,https://pubmed.ncbi.nlm.nih.gov/15203156/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,15771467,https://pubmed.ncbi.nlm.nih.gov/15771467/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,16219463,https://pubmed.ncbi.nlm.nih.gov/16219463/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,16309907,https://pubmed.ncbi.nlm.nih.gov/16309907/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,16610787,https://pubmed.ncbi.nlm.nih.gov/16610787/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,16942012,https://pubmed.ncbi.nlm.nih.gov/16942012/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,17049855,https://pubmed.ncbi.nlm.nih.gov/17049855/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,17289385,https://pubmed.ncbi.nlm.nih.gov/17289385/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,17696335,https://pubmed.ncbi.nlm.nih.gov/17696335/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,18722117,https://pubmed.ncbi.nlm.nih.gov/18722117/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,19128016,https://pubmed.ncbi.nlm.nih.gov/19128016/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,19705860,https://pubmed.ncbi.nlm.nih.gov/19705860/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,20408532,https://pubmed.ncbi.nlm.nih.gov/20408532/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,20812681,https://pubmed.ncbi.nlm.nih.gov/20812681/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,21218783,https://pubmed.ncbi.nlm.nih.gov/21218783/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,21381753,https://pubmed.ncbi.nlm.nih.gov/21381753/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,21481497,https://pubmed.ncbi.nlm.nih.gov/21481497/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,22122563,https://pubmed.ncbi.nlm.nih.gov/22122563/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,22647217,https://pubmed.ncbi.nlm.nih.gov/22647217/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,23043242,https://pubmed.ncbi.nlm.nih.gov/23043242/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,25305688,https://pubmed.ncbi.nlm.nih.gov/25305688/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,25369367,https://pubmed.ncbi.nlm.nih.gov/25369367/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,25559213,https://pubmed.ncbi.nlm.nih.gov/25559213/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,27647367,https://pubmed.ncbi.nlm.nih.gov/27647367/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,28735214,https://pubmed.ncbi.nlm.nih.gov/28735214/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,29869503,https://pubmed.ncbi.nlm.nih.gov/29869503/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,30967304,https://pubmed.ncbi.nlm.nih.gov/30967304/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,31879182,https://pubmed.ncbi.nlm.nih.gov/31879182/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,35870729,https://pubmed.ncbi.nlm.nih.gov/35870729/
+ESR2|VOXZDWNPVJITMN-ZBRFXRBCSA-N,ESR2,Estradiol,ChEMBL,39526345,https://pubmed.ncbi.nlm.nih.gov/39526345/
+NR1D2|KABFMIBPWCXCRK-UHFFFAOYSA-L,NR1D2,GtoPdb_4349_heme,GtoPdb,18006707,https://pubmed.ncbi.nlm.nih.gov/18006707/
+NR1D2|KABFMIBPWCXCRK-UHFFFAOYSA-L,NR1D2,GtoPdb_4349_heme,GtoPdb,18037887,https://pubmed.ncbi.nlm.nih.gov/18037887/
+NR1D2|KABFMIBPWCXCRK-UHFFFAOYSA-L,NR1D2,GtoPdb_4349_heme,GtoPdb,24872411,https://pubmed.ncbi.nlm.nih.gov/24872411/
+NR1H2|FYHRJWMENCALJY-YSQMORBQSA-N,NR1H2,27-Hydroxycholesterol,GtoPdb,11504730,https://pubmed.ncbi.nlm.nih.gov/11504730/
+NR1H2|IOWMKBFJCNLRTC-XWXSNNQWSA-N,NR1H2,GtoPdb_2750_24(S)-hydroxycholesterol,GtoPdb,9013544,https://pubmed.ncbi.nlm.nih.gov/9013544/
+NR1H2|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H2,"GtoPdb_2751_24(S), 25-epoxycholesterol",GtoPdb,23292650,https://pubmed.ncbi.nlm.nih.gov/23292650/
+NR1H2|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H2,"GtoPdb_2751_24(S), 25-epoxycholesterol",GtoPdb,9013544,https://pubmed.ncbi.nlm.nih.gov/9013544/
+NR1H2|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H2,"GtoPdb_2751_24(S), 25-epoxycholesterol",ChEMBL,19264481,https://pubmed.ncbi.nlm.nih.gov/19264481/
+NR1H2|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H2,"GtoPdb_2751_24(S), 25-epoxycholesterol",ChEMBL,26990539,https://pubmed.ncbi.nlm.nih.gov/26990539/
+NR1H2|RZPAXNJLEKLXNO-GFKLAVDKSA-N,NR1H2,GtoPdb_2742_22R-hydroxycholesterol,GtoPdb,8878485,https://pubmed.ncbi.nlm.nih.gov/8878485/
+NR1H2|RZPAXNJLEKLXNO-GFKLAVDKSA-N,NR1H2,GtoPdb_2742_22R-hydroxycholesterol,ChEMBL,15911262,https://pubmed.ncbi.nlm.nih.gov/15911262/
+NR1H2|RZPAXNJLEKLXNO-GFKLAVDKSA-N,NR1H2,GtoPdb_2742_22R-hydroxycholesterol,ChEMBL,28741954,https://pubmed.ncbi.nlm.nih.gov/28741954/
+NR1H2|RZPAXNJLEKLXNO-GFKLAVDKSA-N,NR1H2,GtoPdb_2742_22R-hydroxycholesterol,ChEMBL,37526502,https://pubmed.ncbi.nlm.nih.gov/37526502/
+NR1H3|FYHRJWMENCALJY-YSQMORBQSA-N,NR1H3,27-Hydroxycholesterol,GtoPdb,11504730,https://pubmed.ncbi.nlm.nih.gov/11504730/
+NR1H3|IOWMKBFJCNLRTC-XWXSNNQWSA-N,NR1H3,GtoPdb_2750_24(S)-hydroxycholesterol,GtoPdb,9013544,https://pubmed.ncbi.nlm.nih.gov/9013544/
+NR1H3|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H3,"GtoPdb_2751_24(S), 25-epoxycholesterol",GtoPdb,23292650,https://pubmed.ncbi.nlm.nih.gov/23292650/
+NR1H3|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H3,"GtoPdb_2751_24(S), 25-epoxycholesterol",GtoPdb,9013544,https://pubmed.ncbi.nlm.nih.gov/9013544/
+NR1H3|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H3,"GtoPdb_2751_24(S), 25-epoxycholesterol",GtoPdb,9874807,https://pubmed.ncbi.nlm.nih.gov/9874807/
+NR1H3|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H3,"GtoPdb_2751_24(S), 25-epoxycholesterol",ChEMBL,11985463,https://pubmed.ncbi.nlm.nih.gov/11985463/
+NR1H3|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H3,"GtoPdb_2751_24(S), 25-epoxycholesterol",ChEMBL,16386417,https://pubmed.ncbi.nlm.nih.gov/16386417/
+NR1H3|OSENKJZWYQXHBN-XVYZBDJZSA-N,NR1H3,"GtoPdb_2751_24(S), 25-epoxycholesterol",ChEMBL,26990539,https://pubmed.ncbi.nlm.nih.gov/26990539/
+NR1H3|RZPAXNJLEKLXNO-GFKLAVDKSA-N,NR1H3,GtoPdb_2742_22R-hydroxycholesterol,GtoPdb,8878485,https://pubmed.ncbi.nlm.nih.gov/8878485/
+NR1H3|RZPAXNJLEKLXNO-GFKLAVDKSA-N,NR1H3,GtoPdb_2742_22R-hydroxycholesterol,ChEMBL,15911262,https://pubmed.ncbi.nlm.nih.gov/15911262/
+NR1H3|RZPAXNJLEKLXNO-GFKLAVDKSA-N,NR1H3,GtoPdb_2742_22R-hydroxycholesterol,ChEMBL,23769638,https://pubmed.ncbi.nlm.nih.gov/23769638/
+NR1H3|RZPAXNJLEKLXNO-GFKLAVDKSA-N,NR1H3,GtoPdb_2742_22R-hydroxycholesterol,ChEMBL,28741954,https://pubmed.ncbi.nlm.nih.gov/28741954/
+NR1H3|RZPAXNJLEKLXNO-GFKLAVDKSA-N,NR1H3,GtoPdb_2742_22R-hydroxycholesterol,ChEMBL,37526502,https://pubmed.ncbi.nlm.nih.gov/37526502/
+NR2C2|FPIPGXGPPPQFEQ-OVSJKPMPSA-N,NR2C2,GtoPdb_4053_retinol,GtoPdb,21068381,https://pubmed.ncbi.nlm.nih.gov/21068381/
+NR2C2|SHGAZHPCJJPHSC-YCNIQYBTSA-N,NR2C2,All-trans Retinoic Acid,GtoPdb,21068381,https://pubmed.ncbi.nlm.nih.gov/21068381/
+NR3C1|JYGXADMDTFJGBT-VWUMJDOOSA-N,NR3C1,Hydrocortisone,GtoPdb,10611474,https://pubmed.ncbi.nlm.nih.gov/10611474/
+NR3C1|JYGXADMDTFJGBT-VWUMJDOOSA-N,NR3C1,Hydrocortisone,GtoPdb,10747884,https://pubmed.ncbi.nlm.nih.gov/10747884/
+NR3C1|JYGXADMDTFJGBT-VWUMJDOOSA-N,NR3C1,Hydrocortisone,GtoPdb,8282004,https://pubmed.ncbi.nlm.nih.gov/8282004/
+NR3C1|ZESRJSPZRDMNHY-YFWFAHHUSA-N,NR3C1,Deoxycorticosterone,GtoPdb,10747884,https://pubmed.ncbi.nlm.nih.gov/10747884/
+NR3C1|ZESRJSPZRDMNHY-YFWFAHHUSA-N,NR3C1,Deoxycorticosterone,GtoPdb,8282004,https://pubmed.ncbi.nlm.nih.gov/8282004/
+NR3C2|JYGXADMDTFJGBT-VWUMJDOOSA-N,NR3C2,Hydrocortisone,GtoPdb,10611474,https://pubmed.ncbi.nlm.nih.gov/10611474/
+NR3C2|JYGXADMDTFJGBT-VWUMJDOOSA-N,NR3C2,Hydrocortisone,GtoPdb,8282004,https://pubmed.ncbi.nlm.nih.gov/8282004/
+NR3C2|PQSUYGKTWSAVDQ-ZVIOFETBSA-N,NR3C2,GtoPdb_2872_aldosterone,GtoPdb,10611474,https://pubmed.ncbi.nlm.nih.gov/10611474/
+NR3C2|PQSUYGKTWSAVDQ-ZVIOFETBSA-N,NR3C2,GtoPdb_2872_aldosterone,GtoPdb,8282004,https://pubmed.ncbi.nlm.nih.gov/8282004/
+NR3C2|PQSUYGKTWSAVDQ-ZVIOFETBSA-N,NR3C2,GtoPdb_2872_aldosterone,ChEMBL,20812681,https://pubmed.ncbi.nlm.nih.gov/20812681/
+NR3C2|PQSUYGKTWSAVDQ-ZVIOFETBSA-N,NR3C2,GtoPdb_2872_aldosterone,ChEMBL,25305688,https://pubmed.ncbi.nlm.nih.gov/25305688/
+NR3C2|PQSUYGKTWSAVDQ-ZVIOFETBSA-N,NR3C2,GtoPdb_2872_aldosterone,ChEMBL,35797110,https://pubmed.ncbi.nlm.nih.gov/35797110/
+NR3C2|RJKFOVLPORLFTN-LEKSSAKUSA-N,NR3C2,Progesterone,GtoPdb,8282004,https://pubmed.ncbi.nlm.nih.gov/8282004/
+NR3C2|RJKFOVLPORLFTN-LEKSSAKUSA-N,NR3C2,Progesterone,ChEMBL,8709117,https://pubmed.ncbi.nlm.nih.gov/8709117/
+NR3C2|RJKFOVLPORLFTN-LEKSSAKUSA-N,NR3C2,Progesterone,ChEMBL,9784110,https://pubmed.ncbi.nlm.nih.gov/9784110/
+NR3C2|ZESRJSPZRDMNHY-YFWFAHHUSA-N,NR3C2,Deoxycorticosterone,GtoPdb,8282004,https://pubmed.ncbi.nlm.nih.gov/8282004/
+PPARD|SHGAZHPCJJPHSC-YCNIQYBTSA-N,PPARD,All-trans Retinoic Acid,GtoPdb,12963727,https://pubmed.ncbi.nlm.nih.gov/12963727/
+RORB|SHGAZHPCJJPHSC-YCNIQYBTSA-N,RORB,All-trans Retinoic Acid,GtoPdb,12958591,https://pubmed.ncbi.nlm.nih.gov/12958591/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,GtoPdb,12109914,https://pubmed.ncbi.nlm.nih.gov/12109914/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,11597408,https://pubmed.ncbi.nlm.nih.gov/11597408/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,12109914,https://pubmed.ncbi.nlm.nih.gov/12109914/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,16099653,https://pubmed.ncbi.nlm.nih.gov/16099653/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,17988877,https://pubmed.ncbi.nlm.nih.gov/17988877/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,18975928,https://pubmed.ncbi.nlm.nih.gov/18975928/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,22542282,https://pubmed.ncbi.nlm.nih.gov/22542282/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,24290064,https://pubmed.ncbi.nlm.nih.gov/24290064/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,25305688,https://pubmed.ncbi.nlm.nih.gov/25305688/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,32356658,https://pubmed.ncbi.nlm.nih.gov/32356658/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,35507418,https://pubmed.ncbi.nlm.nih.gov/35507418/
+THRA|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRA,Liothyronine,ChEMBL,36799411,https://pubmed.ncbi.nlm.nih.gov/36799411/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,GtoPdb,12109914,https://pubmed.ncbi.nlm.nih.gov/12109914/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,11597408,https://pubmed.ncbi.nlm.nih.gov/11597408/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,12109914,https://pubmed.ncbi.nlm.nih.gov/12109914/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,16099653,https://pubmed.ncbi.nlm.nih.gov/16099653/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,17988877,https://pubmed.ncbi.nlm.nih.gov/17988877/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,18975928,https://pubmed.ncbi.nlm.nih.gov/18975928/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,22542282,https://pubmed.ncbi.nlm.nih.gov/22542282/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,24290064,https://pubmed.ncbi.nlm.nih.gov/24290064/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,35507418,https://pubmed.ncbi.nlm.nih.gov/35507418/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,35797110,https://pubmed.ncbi.nlm.nih.gov/35797110/
+THRB|AUYYCJSJGJYCDS-LBPRGKRZSA-N,THRB,Liothyronine,ChEMBL,36799411,https://pubmed.ncbi.nlm.nih.gov/36799411/
+THRB|XUIIKFGFIJCVMT-LBPRGKRZSA-N,THRB,L-Thyroxine,GtoPdb,2158622,https://pubmed.ncbi.nlm.nih.gov/2158622/
